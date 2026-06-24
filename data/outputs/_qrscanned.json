@@ -1,0 +1,1172 @@
+[
+    {
+        "Filename": "DSINV2023241704-pdf_page_1_png.rf.Td6J2Q2smJZ2FaTqAFYe.png",
+        "DecodedData": {
+            "SellerGstin": "27AABCT1029L1ZC",
+            "BuyerGstin": "19AAJCA1167G1ZO",
+            "DocNo": "2714004260",
+            "DocTyp": "INV",
+            "DocDt": "23/04/2023",
+            "TotInvVal": 2158536.25,
+            "ItemCnt": 5,
+            "MainHsnCode": "72082630",
+            "Irn": "44b768f3458873ab1cdaa7201cba7d9c197290fe94a03d4430930c25b8e75adb",
+            "IrnDt": "2023-04-23 12:56:00"
+        }
+    },
+    {
+        "Filename": "DSINV2023241725-PDF_page_6_png.rf.1bDM7bdsxAoBqSs4UD5Q.png",
+        "DecodedData": {
+            "SellerGstin": "19AAECD2713N1ZH",
+            "BuyerGstin": "19AAJCA1167G1ZO",
+            "DocNo": "6888493792",
+            "DocTyp": "INV",
+            "DocDt": "15/05/2023",
+            "TotInvVal": 428354.02,
+            "ItemCnt": 14,
+            "MainHsnCode": "32082090",
+            "Irn": "afdc6408599ef91b7773a0a444de0621b4ec6f5e706bf2501fcc23bb6f1a3fba",
+            "IrnDt": "2023-05-15 17:52:00"
+        }
+    },
+    {
+        "Filename": "DSINV2023241760-pdf_page_2_png.rf.omPzxVsWkEG7SftF95Eg.png",
+        "DecodedData": {
+            "SellerGstin": "06AAACB3719Q1ZG",
+            "BuyerGstin": "23AAJCA1167G1ZZ",
+            "DocNo": "23-24/295",
+            "DocTyp": "INV",
+            "DocDt": "10/05/2023",
+            "TotInvVal": 1474788,
+            "ItemCnt": 3,
+            "MainHsnCode": "73089090",
+            "Irn": "51f956c1832222ec1f427a722fd60583358087414f95d5ff937639698a51cb33",
+            "IrnDt": "2023-05-10 17:22:00"
+        }
+    },
+    {
+        "Filename": "CMA CGM-pdf_page_1_png.rf.zM3LVCvniMY5fph835Fd.png",
+        "DecodedData": {
+            "SellerGstin": "19AABCC9048G1ZI",
+            "BuyerGstin": "19AAFCD5214M1ZG",
+            "DocNo": "INIWB055894",
+            "DocTyp": "INV",
+            "DocDt": "31/03/2023",
+            "TotInvVal": 1419.15,
+            "ItemCnt": 1,
+            "MainHsnCode": "996799",
+            "Irn": "3933a6329bfeac3000a20ed0569e621edd401d76de355ce511f7cd29db12893f",
+            "IrnDt": "2023-03-31 16:18:00"
+        }
+    },
+    {
+        "Filename": "DSINV2023241706-pdf_page_1_png.rf.zLEXq3wIaYuw1aV9eMBq.png",
+        "DecodedData": {
+            "SellerGstin": "27AABCT1029L1ZC",
+            "BuyerGstin": "19AAJCA1167G1ZO",
+            "DocNo": "2714003987",
+            "DocTyp": "INV",
+            "DocDt": "17/04/2023",
+            "TotInvVal": 2098788.13,
+            "ItemCnt": 3,
+            "MainHsnCode": "72082530",
+            "Irn": "bd53c1949477321216389cc20d090605ba864bda997f7c0bbf8d9c51495676e8",
+            "IrnDt": "2023-04-17 12:19:00"
+        }
+    },
+    {
+        "Filename": "DSINV2023241705-pdf_page_1_png.rf.dH6QcvAVU4ONZoYz3zm5.png",
+        "DecodedData": {
+            "SellerGstin": "27AABCT1029L1ZC",
+            "BuyerGstin": "19AAJCA1167G1ZO",
+            "DocNo": "2714004259",
+            "DocTyp": "INV",
+            "DocDt": "23/04/2023",
+            "TotInvVal": 2646776.58,
+            "ItemCnt": 6,
+            "MainHsnCode": "72082530",
+            "Irn": "196a2f81adf210725aaa5dd7d0ef5b5dad2b8edebe596cdb23fe7a625de57d90",
+            "IrnDt": "2023-04-23 12:32:00"
+        }
+    },
+    {
+        "Filename": "Raw Material - 3-pdf_page_1_png.rf.1RxLeb4Cisx7F6UjN3xP.png",
+        "DecodedData": {
+            "SellerGstin": "27AAACR5055K1Z7",
+            "BuyerGstin": "27AAACI1530L1ZQ",
+            "DocNo": "27183012043076",
+            "DocTyp": "INV",
+            "DocDt": "28/03/2023",
+            "TotInvVal": 3379992.0,
+            "ItemCnt": 1,
+            "MainHsnCode": "29094100",
+            "Irn": "1f3731084b2af429bbe6221daf6f29516f0693a25d7f67dfedce5d2a4d565166",
+            "IrnDt": "2023-03-28 19:57:00"
+        }
+    },
+    {
+        "Filename": "DSINV2023241709-pdf_page_2_png.rf.gtlHVIESn8U3ySOZ2h2n.png",
+        "DecodedData": {
+            "SellerGstin": "27AABCT1029L1ZC",
+            "BuyerGstin": "19AAJCA1167G1ZO",
+            "DocNo": "2714003193",
+            "DocTyp": "INV",
+            "DocDt": "27/03/2023",
+            "TotInvVal": 1507435.02,
+            "ItemCnt": 4,
+            "MainHsnCode": "72082630",
+            "Irn": "6df81594e89d75dcfcc8b9e258c8ab5ef55e45527a1912285355753a84603ede",
+            "IrnDt": "2023-03-27 11:38:00"
+        }
+    },
+    {
+        "Filename": "DSINV2023241702-pdf_page_1_png.rf.GPmK3skfckssabZlRbcg.png",
+        "DecodedData": {
+            "SellerGstin": "27AABCT1029L1ZC",
+            "BuyerGstin": "19AAJCA1167G1ZO",
+            "DocNo": "2714004617",
+            "DocTyp": "INV",
+            "DocDt": "30/04/2023",
+            "TotInvVal": 2155650.44,
+            "ItemCnt": 4,
+            "MainHsnCode": "72082530",
+            "Irn": "47f65aa5b77852256b54826d1a0e32f4fdbfb229271ba1995b5dfbf425500a85",
+            "IrnDt": "2023-04-30 12:43:00"
+        }
+    },
+    {
+        "Filename": "Class II - 6-pdf_page_2_png.rf.fVm2EcAfprSl2VcvVm6C.png",
+        "DecodedData": {
+            "SellerGstin": "09AAGCB3615B1Z4",
+            "BuyerGstin": "27AAACI1530L1ZQ",
+            "DocNo": "BNK/22-23/0104",
+            "DocTyp": "INV",
+            "DocDt": "01/08/2022",
+            "TotInvVal": 3141641,
+            "ItemCnt": 1,
+            "MainHsnCode": "998717",
+            "Irn": "6481b70560b4996e312aacb7d27a71e91c29a6c1d216c4983fb6358ad67185b3",
+            "IrnDt": "2022-08-01 11:55:00"
+        }
+    },
+    {
+        "Filename": "DSINV2023241700-pdf_page_3_png.rf.koqdGTj8IZzToL8kUQbl.png",
+        "DecodedData": {
+            "SellerGstin": "27AABCT1029L1ZC",
+            "BuyerGstin": "19AAJCA1167G1ZO",
+            "DocNo": "2714004688",
+            "DocTyp": "INV",
+            "DocDt": "01/05/2023",
+            "TotInvVal": 2064314.41,
+            "ItemCnt": 5,
+            "MainHsnCode": "72082530",
+            "Irn": "ab6d04c04bf819468a3c5c7a5f75d1ab45e8100c3431c00bac2aede320f0d2a2",
+            "IrnDt": "2023-05-01 16:45:00"
+        }
+    },
+    {
+        "Filename": "Class II - 1-pdf_page_3_png.rf.nLZqU8HJpEzMjD9DSHyi.png",
+        "DecodedData": {
+            "SellerGstin": "27AIVPT3472A1ZW",
+            "BuyerGstin": "27AAACI1530L1ZQ",
+            "DocNo": "2022-2023/0024",
+            "DocTyp": "INV",
+            "DocDt": "02/05/2022",
+            "TotInvVal": 188800,
+            "ItemCnt": 1,
+            "MainHsnCode": "28251020",
+            "Irn": "11be0818020a299b051bf3267823047d168fea65321a93c8b7d79678ef9534a1",
+            "IrnDt": "2022-05-02 19:45:00"
+        }
+    },
+    {
+        "Filename": "DSINV2023241706-pdf_page_3_png.rf.D4CEcQz0l5hJzD269aw1.png",
+        "DecodedData": {
+            "SellerGstin": "27AABCT1029L1ZC",
+            "BuyerGstin": "19AAJCA1167G1ZO",
+            "DocNo": "2714003987",
+            "DocTyp": "INV",
+            "DocDt": "17/04/2023",
+            "TotInvVal": 2098788.13,
+            "ItemCnt": 3,
+            "MainHsnCode": "72082530",
+            "Irn": "bd53c1949477321216389cc20d090605ba864bda997f7c0bbf8d9c51495676e8",
+            "IrnDt": "2023-04-17 12:19:00"
+        }
+    },
+    {
+        "Filename": "4518967862_HPPL22-23601_jpg.rf.MfzwZAEGrnNFkOuqhXJS.jpg",
+        "DecodedData": {
+            "SellerGstin": "23AAFCM6959G1Z9",
+            "BuyerGstin": "29AAACL9861H1Z2",
+            "DocNo": "HPPL/22-23/601",
+            "DocTyp": "INV",
+            "DocDt": "28/03/2023",
+            "TotInvVal": 1640852,
+            "ItemCnt": 7,
+            "MainHsnCode": "39249090",
+            "Irn": "ec2a427f104cb8fb8e416b482090b7ec05ebff639b9e21dce32e7d49884a2884",
+            "IrnDt": "2023-03-28 17:45:00"
+        }
+    },
+    {
+        "Filename": "DSINV2023241707-pdf_page_3_png.rf.MXIDVuA7mik8xRpmCu2j.png",
+        "DecodedData": {
+            "SellerGstin": "27AABCT1029L1ZC",
+            "BuyerGstin": "19AAJCA1167G1ZO",
+            "DocNo": "2714003458",
+            "DocTyp": "INV",
+            "DocDt": "02/04/2023",
+            "TotInvVal": 2041790.1,
+            "ItemCnt": 5,
+            "MainHsnCode": "72082530",
+            "Irn": "573f8ba67f57e23dd80bc100d28ce590c03e9e36d20e3dc7f9ae99cc2569d220",
+            "IrnDt": "2023-04-02 14:01:00"
+        }
+    },
+    {
+        "Filename": "DSINV2023241698-pdf_page_4_png.rf.ek7Vr2duaC1tSKmROkXv.png",
+        "DecodedData": {
+            "SellerGstin": "27AABCT1029L1ZC",
+            "BuyerGstin": "19AAJCA1167G1ZO",
+            "DocNo": "2714004900",
+            "DocTyp": "INV",
+            "DocDt": "07/05/2023",
+            "TotInvVal": 2064314.41,
+            "ItemCnt": 5,
+            "MainHsnCode": "72082530",
+            "Irn": "b5f1588f2713503da12fcaf05a69f6ec9d866878ad996b38dfdd2714a1d00e14",
+            "IrnDt": "2023-05-07 12:19:00"
+        }
+    },
+    {
+        "Filename": "Raw Material - 6-pdf_page_1_png.rf.JnI3xJhSNMmrtpy6WWuE.png",
+        "DecodedData": {
+            "SellerGstin": "27AAJCP0613L2ZB",
+            "BuyerGstin": "27AAACI1530L1ZQ",
+            "DocNo": "GHUSL0200199",
+            "DocTyp": "INV",
+            "DocDt": "28/02/2023",
+            "TotInvVal": 271796,
+            "ItemCnt": 1,
+            "MainHsnCode": "2701",
+            "Irn": "d2f8d42c98e60f0382c1d92cf683270c4503e6ad2bf21c28f37737184ac6b1ca",
+            "IrnDt": "2023-02-28 18:28:00"
+        }
+    },
+    {
+        "Filename": "4811318932-pdf_page_1_png.rf.AgW9cTiNtFaXJd3zT39m.png",
+        "DecodedData": {
+            "SellerGstin": "07AAACD3254A2ZA",
+            "BuyerGstin": "07AAJCA1167G1ZT",
+            "DocNo": "ZE3010000395",
+            "DocTyp": "INV",
+            "DocDt": "01/05/2023",
+            "TotInvVal": 2211717.0,
+            "ItemCnt": 2,
+            "MainHsnCode": "997212",
+            "Irn": "abd31612b340a8263e4852d532193666e7be9e3a579f8cdbc35b57cb806bbe2f",
+            "IrnDt": "2023-05-01 14:54:00"
+        }
+    },
+    {
+        "Filename": "DSINV2023241707-pdf_page_4_png.rf.Q06mHdpjxOvhfMPsckjF.png",
+        "DecodedData": {
+            "SellerGstin": "27AABCT1029L1ZC",
+            "BuyerGstin": "19AAJCA1167G1ZO",
+            "DocNo": "2714003458",
+            "DocTyp": "INV",
+            "DocDt": "02/04/2023",
+            "TotInvVal": 2041790.1,
+            "ItemCnt": 5,
+            "MainHsnCode": "72082530",
+            "Irn": "573f8ba67f57e23dd80bc100d28ce590c03e9e36d20e3dc7f9ae99cc2569d220",
+            "IrnDt": "2023-04-02 14:01:00"
+        }
+    },
+    {
+        "Filename": "Shree Adinath Overseas-pdf_page_1_png.rf.bXFPOFFMjZbQJUCY4Rzo.png",
+        "DecodedData": {
+            "SellerGstin": "06AFFPJ7436M1Z4",
+            "BuyerGstin": "06AAFCD5214M1ZN",
+            "DocNo": "SAO/22-23/2424",
+            "DocTyp": "INV",
+            "DocDt": "24/03/2023",
+            "TotInvVal": 592288,
+            "ItemCnt": 1,
+            "MainHsnCode": "4401",
+            "Irn": "520b9da0c36c44b0510d0bbaeb48e4ffca46471e9b00df15bd0383a8a2a28c61",
+            "IrnDt": "2023-03-24 11:22:00"
+        }
+    },
+    {
+        "Filename": "DSINV2023241701-pdf_page_4_png.rf.WHLuYvdRjpJLSvXucyG4.png",
+        "DecodedData": {
+            "SellerGstin": "27AABCT1029L1ZC",
+            "BuyerGstin": "19AAJCA1167G1ZO",
+            "DocNo": "2714004687",
+            "DocTyp": "INV",
+            "DocDt": "01/05/2023",
+            "TotInvVal": 2216782.44,
+            "ItemCnt": 5,
+            "MainHsnCode": "72082530",
+            "Irn": "5bcdb97358857cd7731af365a69cddb9cba092cc0f61784a920755edbd079522",
+            "IrnDt": "2023-05-01 16:06:00"
+        }
+    },
+    {
+        "Filename": "DSINV2023241715-pdf_page_1_png.rf.zEIgFCRj2g3MAzhRBtOq.png",
+        "DecodedData": {
+            "SellerGstin": "33AAECV0280C1ZU",
+            "BuyerGstin": "33AAJCA1167G1ZY",
+            "DocNo": "12/CR23-24",
+            "DocTyp": "CRN",
+            "DocDt": "16/05/2023",
+            "TotInvVal": 4567,
+            "ItemCnt": 1,
+            "MainHsnCode": "996601",
+            "Irn": "a8516b3f09d7bd0e1895d6db9c588b4071c9b554bcc331fdf5fb51c121b58591",
+            "IrnDt": "2023-05-16 16:23:00"
+        }
+    },
+    {
+        "Filename": "Export - 4-pdf_page_1_png.rf.6CYEFbG058eu950XkSX9.png",
+        "DecodedData": {
+            "SellerGstin": "27AABCV7123P1ZV",
+            "BuyerGstin": "27AAACI1530L1ZQ",
+            "DocNo": "MH/02/2223/05085",
+            "DocTyp": "INV",
+            "DocDt": "11/07/2022",
+            "TotInvVal": 149771.0,
+            "ItemCnt": 5,
+            "MainHsnCode": "996511",
+            "Irn": "ddad935009214225cde08e9782fe42a93ca930c8037a809a4e501eba15a2213b",
+            "IrnDt": "2022-07-11 13:59:00"
+        }
+    },
+    {
+        "Filename": "DSINV2023241702-pdf_page_2_png.rf.0EBzOPNm3wuok23pKMoN.png",
+        "DecodedData": {
+            "SellerGstin": "27AABCT1029L1ZC",
+            "BuyerGstin": "19AAJCA1167G1ZO",
+            "DocNo": "2714004617",
+            "DocTyp": "INV",
+            "DocDt": "30/04/2023",
+            "TotInvVal": 2155650.44,
+            "ItemCnt": 4,
+            "MainHsnCode": "72082530",
+            "Irn": "47f65aa5b77852256b54826d1a0e32f4fdbfb229271ba1995b5dfbf425500a85",
+            "IrnDt": "2023-04-30 12:43:00"
+        }
+    },
+    {
+        "Filename": "Logistics - 5-pdf_page_1_png.rf.Js2XpEkk6Hzphj0YNvE5.png",
+        "DecodedData": {
+            "SellerGstin": "24ADIFS9230K1ZR",
+            "BuyerGstin": "27AAACI1530L1ZQ",
+            "DocNo": "7240/22",
+            "DocTyp": "INV",
+            "DocDt": "31/03/2023",
+            "TotInvVal": 117089,
+            "ItemCnt": 1,
+            "MainHsnCode": "996791",
+            "Irn": "92dc827219a497501a3adb749c6dbc28eae14ef8e8a4152d505188504a7094f6",
+            "IrnDt": "2023-04-06 12:26:00"
+        }
+    },
+    {
+        "Filename": "Class V - 1-pdf_page_1_png.rf.YvhE7pcb9VxwPZZs1qc1.png",
+        "DecodedData": {
+            "SellerGstin": "27AACCM4945P1ZV",
+            "BuyerGstin": "27AAACI1530L1ZQ",
+            "DocNo": "MH04EMI066001220",
+            "DocTyp": "INV",
+            "DocDt": "09/03/2021",
+            "TotInvVal": 472.0,
+            "ItemCnt": 1,
+            "MainHsnCode": "996799",
+            "Irn": "10bdf8ec9ea9f052ae8deb3abcc8ac6fe235e218c7f0d87314f2a6ecaea6dfbf",
+            "IrnDt": "2021-03-09 12:44:00"
+        }
+    },
+    {
+        "Filename": "DSINV2023241697-pdf_page_2_png.rf.8WPSANMRuTVuAOvIImPt.png",
+        "DecodedData": {
+            "SellerGstin": "27AABCT1029L1ZC",
+            "BuyerGstin": "19AAJCA1167G1ZO",
+            "DocNo": "2714004902",
+            "DocTyp": "INV",
+            "DocDt": "07/05/2023",
+            "TotInvVal": 2127699.99,
+            "ItemCnt": 5,
+            "MainHsnCode": "72082530",
+            "Irn": "14ce3f1e03c18eed681bc7cdf15126d686c2e42b7b16c7067f7ade85d92c538e",
+            "IrnDt": "2023-05-07 12:48:00"
+        }
+    },
+    {
+        "Filename": "DSINV2023241704-pdf_page_2_png.rf.x4P1A5KhFUkiNxha8iP7.png",
+        "DecodedData": {
+            "SellerGstin": "27AABCT1029L1ZC",
+            "BuyerGstin": "19AAJCA1167G1ZO",
+            "DocNo": "2714004260",
+            "DocTyp": "INV",
+            "DocDt": "23/04/2023",
+            "TotInvVal": 2158536.25,
+            "ItemCnt": 5,
+            "MainHsnCode": "72082630",
+            "Irn": "44b768f3458873ab1cdaa7201cba7d9c197290fe94a03d4430930c25b8e75adb",
+            "IrnDt": "2023-04-23 12:56:00"
+        }
+    },
+    {
+        "Filename": "DSINV2023241725-PDF_page_1_png.rf.aQpEhYDECo3e92qkHu0p.png",
+        "DecodedData": {
+            "SellerGstin": "19AAECD2713N1ZH",
+            "BuyerGstin": "19AAJCA1167G1ZO",
+            "DocNo": "6888493792",
+            "DocTyp": "INV",
+            "DocDt": "15/05/2023",
+            "TotInvVal": 428354.02,
+            "ItemCnt": 14,
+            "MainHsnCode": "32082090",
+            "Irn": "afdc6408599ef91b7773a0a444de0621b4ec6f5e706bf2501fcc23bb6f1a3fba",
+            "IrnDt": "2023-05-15 17:52:00"
+        }
+    },
+    {
+        "Filename": "DSINV2023241710-pdf_page_3_png.rf.FbJ4QAumSOFml5NIxeBj.png",
+        "DecodedData": {
+            "SellerGstin": "27AABCT1029L1ZC",
+            "BuyerGstin": "19AAJCA1167G1ZO",
+            "DocNo": "2714004898",
+            "DocTyp": "INV",
+            "DocDt": "07/05/2023",
+            "TotInvVal": 2250300.01,
+            "ItemCnt": 3,
+            "MainHsnCode": "72082530",
+            "Irn": "5b6d130fdc940b68a06568e020a4db2dc74bc34927888ef3f64f255184b67b25",
+            "IrnDt": "2023-05-07 11:34:00"
+        }
+    },
+    {
+        "Filename": "DSINV2023241703-pdf_page_3_png.rf.Pea4LHQHBxMmAoJn1Xmy.png",
+        "DecodedData": {
+            "SellerGstin": "27AABCT1029L1ZC",
+            "BuyerGstin": "19AAJCA1167G1ZO",
+            "DocNo": "2714004560",
+            "DocTyp": "INV",
+            "DocDt": "29/04/2023",
+            "TotInvVal": 2155650.44,
+            "ItemCnt": 4,
+            "MainHsnCode": "72082530",
+            "Irn": "37572f0c7b168f1e9043f641d575db991656ee24016cf058359ee60b7622c91a",
+            "IrnDt": "2023-04-29 20:07:00"
+        }
+    },
+    {
+        "Filename": "DSINV2023241725-PDF_page_3_png.rf.ALnrmGBeua1iCFyoCxx3.png",
+        "DecodedData": {
+            "SellerGstin": "19AAECD2713N1ZH",
+            "BuyerGstin": "19AAJCA1167G1ZO",
+            "DocNo": "6888493792",
+            "DocTyp": "INV",
+            "DocDt": "15/05/2023",
+            "TotInvVal": 428354.02,
+            "ItemCnt": 14,
+            "MainHsnCode": "32082090",
+            "Irn": "afdc6408599ef91b7773a0a444de0621b4ec6f5e706bf2501fcc23bb6f1a3fba",
+            "IrnDt": "2023-05-15 17:52:00"
+        }
+    },
+    {
+        "Filename": "DSINV2023241760-pdf_page_1_png.rf.MWqO3GluBov7P28hUBp7.png",
+        "DecodedData": {
+            "SellerGstin": "06AAACB3719Q1ZG",
+            "BuyerGstin": "23AAJCA1167G1ZZ",
+            "DocNo": "23-24/295",
+            "DocTyp": "INV",
+            "DocDt": "10/05/2023",
+            "TotInvVal": 1474788,
+            "ItemCnt": 3,
+            "MainHsnCode": "73089090",
+            "Irn": "51f956c1832222ec1f427a722fd60583358087414f95d5ff937639698a51cb33",
+            "IrnDt": "2023-05-10 17:22:00"
+        }
+    },
+    {
+        "Filename": "DSINV2023241699-pdf_page_2_png.rf.whMc6QXBAFK5rR6eqROk.png",
+        "DecodedData": {
+            "SellerGstin": "27AABCT1029L1ZC",
+            "BuyerGstin": "19AAJCA1167G1ZO",
+            "DocNo": "2714004689",
+            "DocTyp": "INV",
+            "DocDt": "01/05/2023",
+            "TotInvVal": 2064314.41,
+            "ItemCnt": 5,
+            "MainHsnCode": "72082530",
+            "Irn": "80f6eb802cf227ee4eb8dbab8b5ae4a09f65e4d542dbc5103f20364d35d66613",
+            "IrnDt": "2023-05-01 17:00:00"
+        }
+    },
+    {
+        "Filename": "DSINV2023241702-pdf_page_3_png.rf.JdG4AkmiemNuYorDpVFu.png",
+        "DecodedData": {
+            "SellerGstin": "27AABCT1029L1ZC",
+            "BuyerGstin": "19AAJCA1167G1ZO",
+            "DocNo": "2714004617",
+            "DocTyp": "INV",
+            "DocDt": "30/04/2023",
+            "TotInvVal": 2155650.44,
+            "ItemCnt": 4,
+            "MainHsnCode": "72082530",
+            "Irn": "47f65aa5b77852256b54826d1a0e32f4fdbfb229271ba1995b5dfbf425500a85",
+            "IrnDt": "2023-04-30 12:43:00"
+        }
+    },
+    {
+        "Filename": "Class I - 1 Samples (24)-pdf_page_1_png.rf.1zLzkI9hahgzAfF2krL3.png",
+        "DecodedData": {
+            "SellerGstin": "27AACCM4945P1ZV",
+            "BuyerGstin": "27AAACI1530L1ZQ",
+            "DocNo": "MH04EMI066001220",
+            "DocTyp": "INV",
+            "DocDt": "09/03/2021",
+            "TotInvVal": 472.0,
+            "ItemCnt": 1,
+            "MainHsnCode": "996799",
+            "Irn": "10bdf8ec9ea9f052ae8deb3abcc8ac6fe235e218c7f0d87314f2a6ecaea6dfbf",
+            "IrnDt": "2021-03-09 12:44:00"
+        }
+    },
+    {
+        "Filename": "Class II - 7-pdf_page_1_png.rf.4OEextLhEEQml0leLYHV.png",
+        "DecodedData": {
+            "SellerGstin": "27AACCM4945P1ZV",
+            "BuyerGstin": "27AAACI1530L1ZQ",
+            "DocNo": "MH04EMI032970522",
+            "DocTyp": "INV",
+            "DocDt": "08/08/2022",
+            "TotInvVal": 3894.0,
+            "ItemCnt": 1,
+            "MainHsnCode": "996799",
+            "Irn": "1383677910f9bd10aba9c32a742d73be538450412f4d7749083a018bd5b58cfa",
+            "IrnDt": "2022-08-08 16:31:00"
+        }
+    },
+    {
+        "Filename": "DSINV2023241697-pdf_page_1_png.rf.qzupCMiVog8SBuRSNgwB.png",
+        "DecodedData": {
+            "SellerGstin": "27AABCT1029L1ZC",
+            "BuyerGstin": "19AAJCA1167G1ZO",
+            "DocNo": "2714004902",
+            "DocTyp": "INV",
+            "DocDt": "07/05/2023",
+            "TotInvVal": 2127699.99,
+            "ItemCnt": 5,
+            "MainHsnCode": "72082530",
+            "Irn": "14ce3f1e03c18eed681bc7cdf15126d686c2e42b7b16c7067f7ade85d92c538e",
+            "IrnDt": "2023-05-07 12:48:00"
+        }
+    },
+    {
+        "Filename": "DSINV2023241700-pdf_page_2_png.rf.LVEJck6JSxoIkvwXP0in.png",
+        "DecodedData": {
+            "SellerGstin": "27AABCT1029L1ZC",
+            "BuyerGstin": "19AAJCA1167G1ZO",
+            "DocNo": "2714004688",
+            "DocTyp": "INV",
+            "DocDt": "01/05/2023",
+            "TotInvVal": 2064314.41,
+            "ItemCnt": 5,
+            "MainHsnCode": "72082530",
+            "Irn": "ab6d04c04bf819468a3c5c7a5f75d1ab45e8100c3431c00bac2aede320f0d2a2",
+            "IrnDt": "2023-05-01 16:45:00"
+        }
+    },
+    {
+        "Filename": "GW01210600722-pdf_page_1_png.rf.y9VszZ0ErhF1966cnBmG.png",
+        "DecodedData": {
+            "SellerGstin": "24AAACH3583Q1Z6",
+            "BuyerGstin": "24AAACL6442L1ZG",
+            "DocNo": "IV24-1854-2021",
+            "DocTyp": "INV",
+            "DocDt": "25/05/2021",
+            "TotInvVal": 240983.41,
+            "ItemCnt": 3,
+            "MainHsnCode": "84672900",
+            "Irn": "d2e1c851fde53934b9fe446c1a616ce3b2448e4a1cbadc23d2b252ffe89e23d6",
+            "IrnDt": "2021-05-25 17:32:00"
+        }
+    },
+    {
+        "Filename": "DSINV2023241697-pdf_page_4_png.rf.KZZoJg7hIm9umgeHivDk.png",
+        "DecodedData": {
+            "SellerGstin": "27AABCT1029L1ZC",
+            "BuyerGstin": "19AAJCA1167G1ZO",
+            "DocNo": "2714004902",
+            "DocTyp": "INV",
+            "DocDt": "07/05/2023",
+            "TotInvVal": 2127699.99,
+            "ItemCnt": 5,
+            "MainHsnCode": "72082530",
+            "Irn": "14ce3f1e03c18eed681bc7cdf15126d686c2e42b7b16c7067f7ade85d92c538e",
+            "IrnDt": "2023-05-07 12:48:00"
+        }
+    },
+    {
+        "Filename": "Class I - 1 Samples (17)-pdf_page_1_png.rf.3SGaCCDiZl00dcxjo53J.png",
+        "DecodedData": {
+            "SellerGstin": "27AABFO8697A1Z2",
+            "BuyerGstin": "27AAACI1530L1ZQ",
+            "DocNo": "8853",
+            "DocTyp": "INV",
+            "DocDt": "24/11/2022",
+            "TotInvVal": 756047,
+            "ItemCnt": 5,
+            "MainHsnCode": "73072300",
+            "Irn": "34e038c72e9904f05007435098ffd73625dcd89dd9c0a18ffad6da17409a55f4",
+            "IrnDt": "2022-11-24 16:44:00"
+        }
+    },
+    {
+        "Filename": "DSINV2023241705-pdf_page_3_png.rf.Nmd5iQowWVcDwkoiRu2k.png",
+        "DecodedData": {
+            "SellerGstin": "27AABCT1029L1ZC",
+            "BuyerGstin": "19AAJCA1167G1ZO",
+            "DocNo": "2714004259",
+            "DocTyp": "INV",
+            "DocDt": "23/04/2023",
+            "TotInvVal": 2646776.58,
+            "ItemCnt": 6,
+            "MainHsnCode": "72082530",
+            "Irn": "196a2f81adf210725aaa5dd7d0ef5b5dad2b8edebe596cdb23fe7a625de57d90",
+            "IrnDt": "2023-04-23 12:32:00"
+        }
+    },
+    {
+        "Filename": "DSINV2023241709-pdf_page_1_png.rf.4PvoFP1qjXkBDai0FRaT.png",
+        "DecodedData": {
+            "SellerGstin": "27AABCT1029L1ZC",
+            "BuyerGstin": "19AAJCA1167G1ZO",
+            "DocNo": "2714003193",
+            "DocTyp": "INV",
+            "DocDt": "27/03/2023",
+            "TotInvVal": 1507435.02,
+            "ItemCnt": 4,
+            "MainHsnCode": "72082630",
+            "Irn": "6df81594e89d75dcfcc8b9e258c8ab5ef55e45527a1912285355753a84603ede",
+            "IrnDt": "2023-03-27 11:38:00"
+        }
+    },
+    {
+        "Filename": "Logistics - 2-pdf_page_1_png.rf.GW6J9ODWCnBnPWjEVNKx.png",
+        "DecodedData": {
+            "SellerGstin": "27AABCV7123P1ZV",
+            "BuyerGstin": "27AAACI1530L1ZQ",
+            "DocNo": "MH/02/2324/00376",
+            "DocTyp": "INV",
+            "DocDt": "11/04/2023",
+            "TotInvVal": 93639.0,
+            "ItemCnt": 1,
+            "MainHsnCode": "996511",
+            "Irn": "59baf1c7e64a698c81b0a1adad66eecf9ce7bbc014285401932ec4365491dba8",
+            "IrnDt": "2023-04-11 10:28:00"
+        }
+    },
+    {
+        "Filename": "Class II - 10-pdf_page_1_png.rf.Q3pJmi7JOp7VyLtf0g8p.png",
+        "DecodedData": {
+            "SellerGstin": "27AAJCP0613L2ZB",
+            "BuyerGstin": "27AAACI1530L1ZQ",
+            "DocNo": "GONSL080047",
+            "DocTyp": "INV",
+            "DocDt": "14/08/2022",
+            "TotInvVal": 340575,
+            "ItemCnt": 1,
+            "MainHsnCode": "2701",
+            "Irn": "4ccf10075b7d1e86cdf02f2a8482c52e6487cbfd65c902194e2b8aeb53b75d42",
+            "IrnDt": "2022-08-14 18:46:00"
+        }
+    },
+    {
+        "Filename": "DSINV2023241698-pdf_page_3_png.rf.yvzbu5pvhReNW3EXd0kZ.png",
+        "DecodedData": {
+            "SellerGstin": "27AABCT1029L1ZC",
+            "BuyerGstin": "19AAJCA1167G1ZO",
+            "DocNo": "2714004900",
+            "DocTyp": "INV",
+            "DocDt": "07/05/2023",
+            "TotInvVal": 2064314.41,
+            "ItemCnt": 5,
+            "MainHsnCode": "72082530",
+            "Irn": "b5f1588f2713503da12fcaf05a69f6ec9d866878ad996b38dfdd2714a1d00e14",
+            "IrnDt": "2023-05-07 12:19:00"
+        }
+    },
+    {
+        "Filename": "DSINV2023241699-pdf_page_3_png.rf.tgnFt5IfncOiE0alJjua.png",
+        "DecodedData": {
+            "SellerGstin": "27AABCT1029L1ZC",
+            "BuyerGstin": "19AAJCA1167G1ZO",
+            "DocNo": "2714004689",
+            "DocTyp": "INV",
+            "DocDt": "01/05/2023",
+            "TotInvVal": 2064314.41,
+            "ItemCnt": 5,
+            "MainHsnCode": "72082530",
+            "Irn": "80f6eb802cf227ee4eb8dbab8b5ae4a09f65e4d542dbc5103f20364d35d66613",
+            "IrnDt": "2023-05-01 17:00:00"
+        }
+    },
+    {
+        "Filename": "DSINV2023241725-PDF_page_5_png.rf.94c6LTReOnwr5FiPWzpc.png",
+        "DecodedData": {
+            "SellerGstin": "19AAECD2713N1ZH",
+            "BuyerGstin": "19AAJCA1167G1ZO",
+            "DocNo": "6888493792",
+            "DocTyp": "INV",
+            "DocDt": "15/05/2023",
+            "TotInvVal": 428354.02,
+            "ItemCnt": 14,
+            "MainHsnCode": "32082090",
+            "Irn": "afdc6408599ef91b7773a0a444de0621b4ec6f5e706bf2501fcc23bb6f1a3fba",
+            "IrnDt": "2023-05-15 17:52:00"
+        }
+    },
+    {
+        "Filename": "Class II - 2-pdf_page_1_png.rf.mO8sgqTJtb1DR2bXxxxb.png",
+        "DecodedData": {
+            "SellerGstin": "27AABCL3609C1ZX",
+            "BuyerGstin": "27AAACI1530L1ZQ",
+            "DocNo": "LISPL/22-23/0125",
+            "DocTyp": "INV",
+            "DocDt": "26/08/2022",
+            "TotInvVal": 129859,
+            "ItemCnt": 2,
+            "MainHsnCode": "997319",
+            "Irn": "59e5700ab2930a66539efd1f75944e1cb7b7cedeb14fe000e26ded4bb9ef6bd5",
+            "IrnDt": "2022-08-26 15:58:00"
+        }
+    },
+    {
+        "Filename": "Class II - 5-pdf_page_1_png.rf.tBvgiyT2DflS38MswbQm.png",
+        "DecodedData": {
+            "SellerGstin": "27AAACR5055K1Z7",
+            "BuyerGstin": "27AAACI1530L1ZQ",
+            "DocNo": "27183012014456",
+            "DocTyp": "INV",
+            "DocDt": "09/08/2022",
+            "TotInvVal": 2715364.08,
+            "ItemCnt": 1,
+            "MainHsnCode": "29094100",
+            "Irn": "f19b41f9f452f6b28002f959018ff80f54614df0b41a9c9da7d48f60e3237b37",
+            "IrnDt": "2022-08-09 21:11:00"
+        }
+    },
+    {
+        "Filename": "DSINV2023241697-pdf_page_3_png.rf.ZnVXa9C5Gzju1SHFPXQv.png",
+        "DecodedData": {
+            "SellerGstin": "27AABCT1029L1ZC",
+            "BuyerGstin": "19AAJCA1167G1ZO",
+            "DocNo": "2714004902",
+            "DocTyp": "INV",
+            "DocDt": "07/05/2023",
+            "TotInvVal": 2127699.99,
+            "ItemCnt": 5,
+            "MainHsnCode": "72082530",
+            "Irn": "14ce3f1e03c18eed681bc7cdf15126d686c2e42b7b16c7067f7ade85d92c538e",
+            "IrnDt": "2023-05-07 12:48:00"
+        }
+    },
+    {
+        "Filename": "DSINV2023241710-pdf_page_1_png.rf.mryBXQYz4IoEWODXo3Bu.png",
+        "DecodedData": {
+            "SellerGstin": "27AABCT1029L1ZC",
+            "BuyerGstin": "19AAJCA1167G1ZO",
+            "DocNo": "2714004898",
+            "DocTyp": "INV",
+            "DocDt": "07/05/2023",
+            "TotInvVal": 2250300.01,
+            "ItemCnt": 3,
+            "MainHsnCode": "72082530",
+            "Irn": "5b6d130fdc940b68a06568e020a4db2dc74bc34927888ef3f64f255184b67b25",
+            "IrnDt": "2023-05-07 11:34:00"
+        }
+    },
+    {
+        "Filename": "Class I - 1 Samples (16)-pdf_page_1_png.rf.jRzMZGES0lRAu6Asl91T.png",
+        "DecodedData": {
+            "SellerGstin": "06AAACI1681G3ZR",
+            "BuyerGstin": "27AAACI1530L1ZQ",
+            "DocNo": "HR5567053569",
+            "DocTyp": "INV",
+            "DocDt": "27/01/2021",
+            "TotInvVal": 1872603.96,
+            "ItemCnt": 1,
+            "MainHsnCode": "2917",
+            "Irn": "bc7d87c175778efdbdc3e509517f44a725fb54b88ed43ea9da9dc1b93fb2224d",
+            "IrnDt": "2021-01-27 17:43:00"
+        }
+    },
+    {
+        "Filename": "DSINV2023241703-pdf_page_2_png.rf.sLWGYWV1TJdpU7t21NAJ.png",
+        "DecodedData": {
+            "SellerGstin": "27AABCT1029L1ZC",
+            "BuyerGstin": "19AAJCA1167G1ZO",
+            "DocNo": "2714004560",
+            "DocTyp": "INV",
+            "DocDt": "29/04/2023",
+            "TotInvVal": 2155650.44,
+            "ItemCnt": 4,
+            "MainHsnCode": "72082530",
+            "Irn": "37572f0c7b168f1e9043f641d575db991656ee24016cf058359ee60b7622c91a",
+            "IrnDt": "2023-04-29 20:07:00"
+        }
+    },
+    {
+        "Filename": "Class III - 1-pdf_page_1_png.rf.Tpt9SchuWRYoMTag7udi.png",
+        "DecodedData": {
+            "SellerGstin": "06AAACI1681G3ZR",
+            "BuyerGstin": "27AAACI1530L1ZQ",
+            "DocNo": "HR5567053569",
+            "DocTyp": "INV",
+            "DocDt": "27/01/2021",
+            "TotInvVal": 1872603.96,
+            "ItemCnt": 1,
+            "MainHsnCode": "2917",
+            "Irn": "bc7d87c175778efdbdc3e509517f44a725fb54b88ed43ea9da9dc1b93fb2224d",
+            "IrnDt": "2021-01-27 17:43:00"
+        }
+    },
+    {
+        "Filename": "DSINV2023241707-pdf_page_1_png.rf.KnbkpnD6RfPcx6lkR3He.png",
+        "DecodedData": {
+            "SellerGstin": "27AABCT1029L1ZC",
+            "BuyerGstin": "19AAJCA1167G1ZO",
+            "DocNo": "2714003458",
+            "DocTyp": "INV",
+            "DocDt": "02/04/2023",
+            "TotInvVal": 2041790.1,
+            "ItemCnt": 5,
+            "MainHsnCode": "72082530",
+            "Irn": "573f8ba67f57e23dd80bc100d28ce590c03e9e36d20e3dc7f9ae99cc2569d220",
+            "IrnDt": "2023-04-02 14:01:00"
+        }
+    },
+    {
+        "Filename": "DSINV2023241728-pdf_page_1_png.rf.KVPwVsgykuODMgUkgNFx.png",
+        "DecodedData": {
+            "SellerGstin": "29AATCS9490A1ZP",
+            "BuyerGstin": "29AAJCA1167G1ZN",
+            "DocNo": "KA/2023-24/1555",
+            "DocTyp": "INV",
+            "DocDt": "16/05/2023",
+            "TotInvVal": 100735.0,
+            "ItemCnt": 1,
+            "MainHsnCode": "998599",
+            "Irn": "ca6368962130fb184b3a3fe03af1420ed7540e000cd78660c011272297133d5a",
+            "IrnDt": "2023-05-16 12:41:00"
+        }
+    },
+    {
+        "Filename": "DSINV2023241710-pdf_page_2_png.rf.yqy8pXHTUhVxIptOHq8r.png",
+        "DecodedData": {
+            "SellerGstin": "27AABCT1029L1ZC",
+            "BuyerGstin": "19AAJCA1167G1ZO",
+            "DocNo": "2714004898",
+            "DocTyp": "INV",
+            "DocDt": "07/05/2023",
+            "TotInvVal": 2250300.01,
+            "ItemCnt": 3,
+            "MainHsnCode": "72082530",
+            "Irn": "5b6d130fdc940b68a06568e020a4db2dc74bc34927888ef3f64f255184b67b25",
+            "IrnDt": "2023-05-07 11:34:00"
+        }
+    },
+    {
+        "Filename": "DSINV2023241701-pdf_page_1_png.rf.8vK2LwlYx1Lz6fv7T9Em.png",
+        "DecodedData": {
+            "SellerGstin": "27AABCT1029L1ZC",
+            "BuyerGstin": "19AAJCA1167G1ZO",
+            "DocNo": "2714004687",
+            "DocTyp": "INV",
+            "DocDt": "01/05/2023",
+            "TotInvVal": 2216782.44,
+            "ItemCnt": 5,
+            "MainHsnCode": "72082530",
+            "Irn": "5bcdb97358857cd7731af365a69cddb9cba092cc0f61784a920755edbd079522",
+            "IrnDt": "2023-05-01 16:06:00"
+        }
+    },
+    {
+        "Filename": "DSINV2023241709-pdf_page_4_png.rf.FMXckYiNeusFf9WNwy0m.png",
+        "DecodedData": {
+            "SellerGstin": "27AABCT1029L1ZC",
+            "BuyerGstin": "19AAJCA1167G1ZO",
+            "DocNo": "2714003193",
+            "DocTyp": "INV",
+            "DocDt": "27/03/2023",
+            "TotInvVal": 1507435.02,
+            "ItemCnt": 4,
+            "MainHsnCode": "72082630",
+            "Irn": "6df81594e89d75dcfcc8b9e258c8ab5ef55e45527a1912285355753a84603ede",
+            "IrnDt": "2023-03-27 11:38:00"
+        }
+    },
+    {
+        "Filename": "Class I - 1 Samples (14)-pdf_page_1_png.rf.zKi8IhFlOU7lGEhF7ZE2.png",
+        "DecodedData": {
+            "SellerGstin": "24AAACB4026C1ZH",
+            "BuyerGstin": "27AAACI1530L1ZQ",
+            "DocNo": "SI2421000298",
+            "DocTyp": "INV",
+            "DocDt": "19/04/2021",
+            "TotInvVal": 28320.0,
+            "ItemCnt": 1,
+            "MainHsnCode": "998717",
+            "Irn": "9e59bb16813e9f5b927a4b8aca50fabcd28d4950e60be4c522a41801315fcc0e",
+            "IrnDt": "2021-04-20 11:08:00"
+        }
+    },
+    {
+        "Filename": "DSINV2023241705-pdf_page_4_png.rf.dl8xMQMg5t9gVF4O1RcY.png",
+        "DecodedData": {
+            "SellerGstin": "27AABCT1029L1ZC",
+            "BuyerGstin": "19AAJCA1167G1ZO",
+            "DocNo": "2714004259",
+            "DocTyp": "INV",
+            "DocDt": "23/04/2023",
+            "TotInvVal": 2646776.58,
+            "ItemCnt": 6,
+            "MainHsnCode": "72082530",
+            "Irn": "196a2f81adf210725aaa5dd7d0ef5b5dad2b8edebe596cdb23fe7a625de57d90",
+            "IrnDt": "2023-04-23 12:32:00"
+        }
+    },
+    {
+        "Filename": "DSINV2023241754-pdf_page_1_png.rf.xlwpYRbdJKIuYM2IrC6J.png",
+        "DecodedData": {
+            "SellerGstin": "29AABCS0858G1Z9",
+            "BuyerGstin": "23AAJCA1167G1ZZ",
+            "DocNo": "KA/2024/S-000170",
+            "DocTyp": "INV",
+            "DocDt": "17/05/2023",
+            "TotInvVal": 41300,
+            "ItemCnt": 1,
+            "MainHsnCode": "998739",
+            "Irn": "2d9b0c00bca1c233f74417a484e02ef7e94f5e4aebb922c9532ee8790da01305",
+            "IrnDt": "2023-05-17 12:53:00"
+        }
+    },
+    {
+        "Filename": "DSINV2023241699-pdf_page_4_png.rf.hhNeuB7vCEcAapGou7tt.png",
+        "DecodedData": {
+            "SellerGstin": "27AABCT1029L1ZC",
+            "BuyerGstin": "19AAJCA1167G1ZO",
+            "DocNo": "2714004689",
+            "DocTyp": "INV",
+            "DocDt": "01/05/2023",
+            "TotInvVal": 2064314.41,
+            "ItemCnt": 5,
+            "MainHsnCode": "72082530",
+            "Irn": "80f6eb802cf227ee4eb8dbab8b5ae4a09f65e4d542dbc5103f20364d35d66613",
+            "IrnDt": "2023-05-01 17:00:00"
+        }
+    },
+    {
+        "Filename": "Class III - 2-pdf_page_1_png.rf.4ZOXrQWcthcUOEeGBkf2.png",
+        "DecodedData": {
+            "SellerGstin": "27AABFO8697A1Z2",
+            "BuyerGstin": "27AAACI1530L1ZQ",
+            "DocNo": "8853",
+            "DocTyp": "INV",
+            "DocDt": "24/11/2022",
+            "TotInvVal": 756047,
+            "ItemCnt": 5,
+            "MainHsnCode": "73072300",
+            "Irn": "34e038c72e9904f05007435098ffd73625dcd89dd9c0a18ffad6da17409a55f4",
+            "IrnDt": "2022-11-24 16:44:00"
+        }
+    },
+    {
+        "Filename": "DSINV2023241724-PDF_page_2_png.rf.o5lQ2tp6gOMCrx3Y5ZT7.png",
+        "DecodedData": {
+            "SellerGstin": "19AAECD2713N1ZH",
+            "BuyerGstin": "19AAJCA1167G1ZO",
+            "DocNo": "6888493791",
+            "DocTyp": "INV",
+            "DocDt": "15/05/2023",
+            "TotInvVal": 6918.0,
+            "ItemCnt": 1,
+            "MainHsnCode": "38249900",
+            "Irn": "633fb38f790475f71cf93fbba1fd69d4d39e8660b94a776595c6640edf1376ce",
+            "IrnDt": "2023-05-15 17:52:00"
+        }
+    },
+    {
+        "Filename": "Shipping - 2-pdf_page_1_png.rf.pcWjmfYc8ieuzlzARpNn.png",
+        "DecodedData": {
+            "SellerGstin": "27AACCO6217A1ZV",
+            "BuyerGstin": "06AAACI1530L3ZS",
+            "DocNo": "IN27220163653",
+            "DocTyp": "INV",
+            "DocDt": "28/03/2023",
+            "TotInvVal": 30452.44,
+            "ItemCnt": 2,
+            "MainHsnCode": "996521",
+            "Irn": "a5651be54e1d28fc0672368d31be9c2024856bdba387a082d471366c5f6db047",
+            "IrnDt": "2023-03-28 21:31:00"
+        }
+    },
+    {
+        "Filename": "DSINV2023241705-pdf_page_2_png.rf.3yMBAjbIq36whrMXuEcE.png",
+        "DecodedData": {
+            "SellerGstin": "27AABCT1029L1ZC",
+            "BuyerGstin": "19AAJCA1167G1ZO",
+            "DocNo": "2714004259",
+            "DocTyp": "INV",
+            "DocDt": "23/04/2023",
+            "TotInvVal": 2646776.58,
+            "ItemCnt": 6,
+            "MainHsnCode": "72082530",
+            "Irn": "196a2f81adf210725aaa5dd7d0ef5b5dad2b8edebe596cdb23fe7a625de57d90",
+            "IrnDt": "2023-04-23 12:32:00"
+        }
+    },
+    {
+        "Filename": "Raw Material - 1-pdf_page_1_png.rf.wQ7ttAIIKfrkW0q2E56I.png",
+        "DecodedData": {
+            "SellerGstin": "19AAACM9169K1ZU",
+            "BuyerGstin": "19AAFCD5214M1ZG",
+            "DocNo": "23WBD340002115",
+            "DocTyp": "INV",
+            "DocDt": "16/04/2023",
+            "TotInvVal": 2017813.02,
+            "ItemCnt": 1,
+            "MainHsnCode": "29173600",
+            "Irn": "8236d3c3c9fa328150df29aab2e88a9ccbb381fd9197d856c165d8fccd879608",
+            "IrnDt": "2023-04-16 16:38:00"
+        }
+    },
+    {
+        "Filename": "DSINV2023241704-pdf_page_3_png.rf.Cid4NR2JXAKl0aPCLtGE.png",
+        "DecodedData": {
+            "SellerGstin": "27AABCT1029L1ZC",
+            "BuyerGstin": "19AAJCA1167G1ZO",
+            "DocNo": "2714004260",
+            "DocTyp": "INV",
+            "DocDt": "23/04/2023",
+            "TotInvVal": 2158536.25,
+            "ItemCnt": 5,
+            "MainHsnCode": "72082630",
+            "Irn": "44b768f3458873ab1cdaa7201cba7d9c197290fe94a03d4430930c25b8e75adb",
+            "IrnDt": "2023-04-23 12:56:00"
+        }
+    },
+    {
+        "Filename": "DSINV2023241714-pdf_page_1_png.rf.F2lHeMjIbtB081EwIMe6.png",
+        "DecodedData": {
+            "SellerGstin": "33AAECV0280C1ZU",
+            "BuyerGstin": "33AAJCA1167G1ZY",
+            "DocNo": "109/2023-24",
+            "DocTyp": "INV",
+            "DocDt": "16/05/2023",
+            "TotInvVal": 1564241,
+            "ItemCnt": 6,
+            "MainHsnCode": "996601",
+            "Irn": "fae4faf2d07ad31ba7817f085f9277e5a1c20df5017359627f7ca5b4d48383f8",
+            "IrnDt": "2023-05-16 16:22:00"
+        }
+    },
+    {
+        "Filename": "DSINV2023241724-PDF_page_1_png.rf.6KtWEOQj9zWdbmKD9bUr.png",
+        "DecodedData": {
+            "SellerGstin": "19AAECD2713N1ZH",
+            "BuyerGstin": "19AAJCA1167G1ZO",
+            "DocNo": "6888493791",
+            "DocTyp": "INV",
+            "DocDt": "15/05/2023",
+            "TotInvVal": 6918.0,
+            "ItemCnt": 1,
+            "MainHsnCode": "38249900",
+            "Irn": "633fb38f790475f71cf93fbba1fd69d4d39e8660b94a776595c6640edf1376ce",
+            "IrnDt": "2023-05-15 17:52:00"
+        }
+    },
+    {
+        "Filename": "DSINV2023241712-pdf_page_1_png.rf.3SQNHsCOkDBV1QloR0MD.png",
+        "DecodedData": {
+            "SellerGstin": "09AAACR9626A1ZH",
+            "BuyerGstin": "09AAKCM0652P1ZX",
+            "DocNo": "UP0020003479",
+            "DocTyp": "INV",
+            "DocDt": "09/03/2022",
+            "TotInvVal": 143038.42,
+            "ItemCnt": 2,
+            "MainHsnCode": "999432",
+            "Irn": "821ca5ae3a5d3d6d51a1d3977f7ff39d5e4b32ea89c948aed48ed64a796fba60",
+            "IrnDt": "2022-03-09 14:38:00"
+        }
+    },
+    {
+        "Filename": "Class II - 8-pdf_page_3_png.rf.7auZrMOOdsF6dsYGFfyL.png",
+        "DecodedData": {
+            "SellerGstin": "19AAFCD5214M1ZG",
+            "BuyerGstin": "06AAFCD5214M1ZN",
+            "DocNo": "1012223006297",
+            "DocTyp": "INV",
+            "DocDt": "31/08/2022",
+            "TotInvVal": 3895947.0,
+            "ItemCnt": 1,
+            "MainHsnCode": "390761",
+            "Irn": "da95882235a83a5cb84d60030299bc21d60e7981d122dff0d6ebbe6f80e3c3e4",
+            "IrnDt": "2022-08-31 13:02:00"
+        }
+    },
+    {
+        "Filename": "DSINV2023241700-pdf_page_4_png.rf.VauFFpNmSXt9qEXE01fF.png",
+        "DecodedData": {
+            "SellerGstin": "27AABCT1029L1ZC",
+            "BuyerGstin": "19AAJCA1167G1ZO",
+            "DocNo": "2714004688",
+            "DocTyp": "INV",
+            "DocDt": "01/05/2023",
+            "TotInvVal": 2064314.41,
+            "ItemCnt": 5,
+            "MainHsnCode": "72082530",
+            "Irn": "ab6d04c04bf819468a3c5c7a5f75d1ab45e8100c3431c00bac2aede320f0d2a2",
+            "IrnDt": "2023-05-01 16:45:00"
+        }
+    },
+    {
+        "Filename": "DSINV2023241725-PDF_page_2_png.rf.iq1SH562BtkSgMIYLFJj.png",
+        "DecodedData": {
+            "SellerGstin": "19AAECD2713N1ZH",
+            "BuyerGstin": "19AAJCA1167G1ZO",
+            "DocNo": "6888493792",
+            "DocTyp": "INV",
+            "DocDt": "15/05/2023",
+            "TotInvVal": 428354.02,
+            "ItemCnt": 14,
+            "MainHsnCode": "32082090",
+            "Irn": "afdc6408599ef91b7773a0a444de0621b4ec6f5e706bf2501fcc23bb6f1a3fba",
+            "IrnDt": "2023-05-15 17:52:00"
+        }
+    },
+    {
+        "Filename": "DSINV2023241699-pdf_page_1_png.rf.DRoqUDHFIZHPnU1jqCOl.png",
+        "DecodedData": {
+            "SellerGstin": "27AABCT1029L1ZC",
+            "BuyerGstin": "19AAJCA1167G1ZO",
+            "DocNo": "2714004689",
+            "DocTyp": "INV",
+            "DocDt": "01/05/2023",
+            "TotInvVal": 2064314.41,
+            "ItemCnt": 5,
+            "MainHsnCode": "72082530",
+            "Irn": "80f6eb802cf227ee4eb8dbab8b5ae4a09f65e4d542dbc5103f20364d35d66613",
+            "IrnDt": "2023-05-01 17:00:00"
+        }
+    }
+]

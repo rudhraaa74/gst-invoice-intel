@@ -9,6 +9,7 @@ This document outlines the strict rules for organizing files and directories wit
 
 2.  **`/scripts`**: 
     *   **Strict Rule**: ALL standalone Python scripts (`.py` files), shell scripts (`.sh` files), and other executable scripts used for processing, training, or automation must be placed in this directory.
+    *   **`/scripts/temp`**: Temporary scripts or one-off utility scripts (e.g., generating one-time spreadsheets, scratchpads) must be placed in this subdirectory to keep the main scripts folder clean.
 
 3.  **`/data`**:
     *   **Strict Rule**: This directory is reserved strictly for datasets. No code or notebooks should be placed here.
