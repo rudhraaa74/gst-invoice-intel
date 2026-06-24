@@ -1,0 +1,47 @@
+{
+    "SellerGstin": {
+        "correct": 41,
+        "wrong": 3,
+        "not_extracted": 3,
+        "unparseable": 0,
+        "Accuracy": "93.2%",
+        "Total GT": 47
+    },
+    "BuyerGstin": {
+        "correct": 41,
+        "wrong": 3,
+        "not_extracted": 3,
+        "unparseable": 0,
+        "Accuracy": "93.2%",
+        "Total GT": 47
+    },
+    "DocNo": {
+        "correct": 40,
+        "wrong": 7,
+        "not_extracted": 0,
+        "unparseable": 0,
+        "Accuracy": "85.1%",
+        "Total GT": 47
+    },
+    "DocDt": {
+        "correct": 45,
+        "wrong": 2,
+        "not_extracted": 0,
+        "unparseable": 0,
+        "Accuracy": "95.7%",
+        "Total GT": 47
+    },
+    "TotInvVal": {
+        "correct": 41,
+        "wrong": 5,
+        "not_extracted": 1,
+        "unparseable": 0,
+        "Accuracy": "89.1%",
+        "Total GT": 47
+    },
+    "Perfect Match": {
+        "correct": 33,
+        "Total GT": 47,
+        "Accuracy": "70.2%"
+    }
+}

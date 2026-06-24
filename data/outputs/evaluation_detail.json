@@ -1,0 +1,1365 @@
+[
+    {
+        "Filename": "DSINV2023241704",
+        "SellerGstin": {
+            "extracted": "27AABCT1029L1ZC",
+            "ground_truth": "27AABCT1029L1ZC",
+            "result": "correct"
+        },
+        "BuyerGstin": {
+            "extracted": "19AAJCA1167G1ZO",
+            "ground_truth": "19AAJCA1167G1ZO",
+            "result": "correct"
+        },
+        "DocNo": {
+            "extracted": "2714004260",
+            "ground_truth": "2714004260",
+            "result": "correct"
+        },
+        "DocDt": {
+            "extracted": "23-04-2023",
+            "ground_truth": "23-04-2023",
+            "result": "correct"
+        },
+        "TotInvVal": {
+            "extracted": 2158536,
+            "ground_truth": 2158536,
+            "result": "correct"
+        },
+        "perfect_match": true
+    },
+    {
+        "Filename": "DSINV2023241725",
+        "SellerGstin": {
+            "extracted": "19AAECD2713N1ZH",
+            "ground_truth": "19AAECD2713N1ZH",
+            "result": "correct"
+        },
+        "BuyerGstin": {
+            "extracted": "19AAJCA1167G1ZO",
+            "ground_truth": "19AAJCA1167G1ZO",
+            "result": "correct"
+        },
+        "DocNo": {
+            "extracted": "6888493792",
+            "ground_truth": "6888493792",
+            "result": "correct"
+        },
+        "DocDt": {
+            "extracted": "15-05-2023",
+            "ground_truth": "15-05-2023",
+            "result": "correct"
+        },
+        "TotInvVal": {
+            "extracted": 428354,
+            "ground_truth": 428354,
+            "result": "correct"
+        },
+        "perfect_match": true
+    },
+    {
+        "Filename": "DSINV2023241760",
+        "SellerGstin": {
+            "extracted": "06AAACB3719Q1ZG",
+            "ground_truth": "06AAACB3719Q1ZG",
+            "result": "correct"
+        },
+        "BuyerGstin": {
+            "extracted": "23AAJCA1167G1ZZ",
+            "ground_truth": "23AAJCA1167G1ZZ",
+            "result": "correct"
+        },
+        "DocNo": {
+            "extracted": "23-24/295",
+            "ground_truth": "23-24/295",
+            "result": "correct"
+        },
+        "DocDt": {
+            "extracted": "10-05-2023",
+            "ground_truth": "10-05-2023",
+            "result": "correct"
+        },
+        "TotInvVal": {
+            "extracted": 1474788,
+            "ground_truth": 1474788,
+            "result": "correct"
+        },
+        "perfect_match": true
+    },
+    {
+        "Filename": "CMA CGM",
+        "SellerGstin": {
+            "extracted": "19AABCC9048G1ZI",
+            "ground_truth": "19AABCC9048G1ZI",
+            "result": "correct"
+        },
+        "BuyerGstin": {
+            "extracted": "19AAFCD5214M1ZG",
+            "ground_truth": "19AAFCD5214M1ZG",
+            "result": "correct"
+        },
+        "DocNo": {
+            "extracted": "INIWB055894",
+            "ground_truth": "INIWB055894",
+            "result": "correct"
+        },
+        "DocDt": {
+            "extracted": "31-03-2023",
+            "ground_truth": "31-03-2023",
+            "result": "correct"
+        },
+        "TotInvVal": {
+            "extracted": 1419,
+            "ground_truth": 1419,
+            "result": "correct"
+        },
+        "perfect_match": true
+    },
+    {
+        "Filename": "DSINV2023241706",
+        "SellerGstin": {
+            "extracted": "27AABCT1029L1ZC",
+            "ground_truth": "27AABCT1029L1ZC",
+            "result": "correct"
+        },
+        "BuyerGstin": {
+            "extracted": "19AAJCA1167G1ZO",
+            "ground_truth": "19AAJCA1167G1ZO",
+            "result": "correct"
+        },
+        "DocNo": {
+            "extracted": "2714003987",
+            "ground_truth": "2714003987",
+            "result": "correct"
+        },
+        "DocDt": {
+            "extracted": "17-04-2023",
+            "ground_truth": "17-04-2023",
+            "result": "correct"
+        },
+        "TotInvVal": {
+            "extracted": 2098788,
+            "ground_truth": 2098788,
+            "result": "correct"
+        },
+        "perfect_match": true
+    },
+    {
+        "Filename": "DSINV2023241705",
+        "SellerGstin": {
+            "extracted": "27AABCT1029L1ZC",
+            "ground_truth": "27AABCT1029L1ZC",
+            "result": "correct"
+        },
+        "BuyerGstin": {
+            "extracted": "19AAJCA1167G1ZO",
+            "ground_truth": "19AAJCA1167G1ZO",
+            "result": "correct"
+        },
+        "DocNo": {
+            "extracted": "2714004259",
+            "ground_truth": "2714004259",
+            "result": "correct"
+        },
+        "DocDt": {
+            "extracted": "23-04-2023",
+            "ground_truth": "23-04-2023",
+            "result": "correct"
+        },
+        "TotInvVal": {
+            "extracted": 2646777,
+            "ground_truth": 2646777,
+            "result": "correct"
+        },
+        "perfect_match": true
+    },
+    {
+        "Filename": "Raw Material - 3",
+        "SellerGstin": {
+            "extracted": "27AAACR5055K1Z7",
+            "ground_truth": "27AAACR5055K1Z7",
+            "result": "correct"
+        },
+        "BuyerGstin": {
+            "extracted": "27AAACI1530L1ZQ",
+            "ground_truth": "27AAACI1530L1ZQ",
+            "result": "correct"
+        },
+        "DocNo": {
+            "extracted": "27183012043076",
+            "ground_truth": "27183012043076",
+            "result": "correct"
+        },
+        "DocDt": {
+            "extracted": "28-03-2023",
+            "ground_truth": "28-03-2023",
+            "result": "correct"
+        },
+        "TotInvVal": {
+            "extracted": 3379992,
+            "ground_truth": 3379992,
+            "result": "correct"
+        },
+        "perfect_match": true
+    },
+    {
+        "Filename": "DSINV2023241709",
+        "SellerGstin": {
+            "extracted": "27AABCT1029L1ZC",
+            "ground_truth": "27AABCT1029L1ZC",
+            "result": "correct"
+        },
+        "BuyerGstin": {
+            "extracted": "19AAJCA1167G1ZO",
+            "ground_truth": "19AAJCA1167G1ZO",
+            "result": "correct"
+        },
+        "DocNo": {
+            "extracted": "2714003193",
+            "ground_truth": "2714003193",
+            "result": "correct"
+        },
+        "DocDt": {
+            "extracted": "27-03-2023",
+            "ground_truth": "27-03-2023",
+            "result": "correct"
+        },
+        "TotInvVal": {
+            "extracted": null,
+            "ground_truth": 1507435,
+            "result": "not_extracted"
+        },
+        "perfect_match": false
+    },
+    {
+        "Filename": "DSINV2023241702",
+        "SellerGstin": {
+            "extracted": "27AABCT1029L1ZC",
+            "ground_truth": "27AABCT1029L1ZC",
+            "result": "correct"
+        },
+        "BuyerGstin": {
+            "extracted": "19AAJCA1167G1ZO",
+            "ground_truth": "19AAJCA1167G1ZO",
+            "result": "correct"
+        },
+        "DocNo": {
+            "extracted": "2714004617",
+            "ground_truth": "2714004617",
+            "result": "correct"
+        },
+        "DocDt": {
+            "extracted": "30-04-2023",
+            "ground_truth": "30-04-2023",
+            "result": "correct"
+        },
+        "TotInvVal": {
+            "extracted": 2155650,
+            "ground_truth": 2155650,
+            "result": "correct"
+        },
+        "perfect_match": true
+    },
+    {
+        "Filename": "Class II - 6",
+        "SellerGstin": {
+            "extracted": "09AABCC8524H1ZM",
+            "ground_truth": "09AAGCB3615B1Z4",
+            "result": "wrong"
+        },
+        "BuyerGstin": {
+            "extracted": "27AAACI1530L1ZQ",
+            "ground_truth": "27AAACI1530L1ZQ",
+            "result": "correct"
+        },
+        "DocNo": {
+            "extracted": "TI-2223/05422",
+            "ground_truth": "BNK/22-23/0104",
+            "result": "wrong"
+        },
+        "DocDt": {
+            "extracted": "21-11-2022",
+            "ground_truth": "01-08-2022",
+            "result": "wrong"
+        },
+        "TotInvVal": {
+            "extracted": 3141641,
+            "ground_truth": 3141641,
+            "result": "correct"
+        },
+        "perfect_match": false
+    },
+    {
+        "Filename": "DSINV2023241700",
+        "SellerGstin": {
+            "extracted": null,
+            "ground_truth": "27AABCT1029L1ZC",
+            "result": "not_extracted"
+        },
+        "BuyerGstin": {
+            "extracted": null,
+            "ground_truth": "19AAJCA1167G1ZO",
+            "result": "not_extracted"
+        },
+        "DocNo": {
+            "extracted": "2714004688",
+            "ground_truth": "2714004688",
+            "result": "correct"
+        },
+        "DocDt": {
+            "extracted": "01-05-2023",
+            "ground_truth": "01-05-2023",
+            "result": "correct"
+        },
+        "TotInvVal": {
+            "extracted": 2064314,
+            "ground_truth": 2064314,
+            "result": "correct"
+        },
+        "perfect_match": false
+    },
+    {
+        "Filename": "Class II - 1",
+        "SellerGstin": {
+            "extracted": "24AAACV5048G1ZH",
+            "ground_truth": "27AIVPT3472A1ZW",
+            "result": "wrong"
+        },
+        "BuyerGstin": {
+            "extracted": "27AAGCI2068F1ZM",
+            "ground_truth": "27AAACI1530L1ZQ",
+            "result": "wrong"
+        },
+        "DocNo": {
+            "extracted": "SAV/2223/1829",
+            "ground_truth": "2022-2023/0024",
+            "result": "wrong"
+        },
+        "DocDt": {
+            "extracted": "09-12-2022",
+            "ground_truth": "02-05-2022",
+            "result": "wrong"
+        },
+        "TotInvVal": {
+            "extracted": 188800,
+            "ground_truth": 188800,
+            "result": "correct"
+        },
+        "perfect_match": false
+    },
+    {
+        "Filename": "4518967862_HPPL22-23601_jpg.rf.MfzwZAEGrnNFkOuqhXJS.jpg",
+        "SellerGstin": {
+            "extracted": "23AAFCM6959G1Z9",
+            "ground_truth": "23AAFCM6959G1Z9",
+            "result": "correct"
+        },
+        "BuyerGstin": {
+            "extracted": "29AAACL9861H1Z2",
+            "ground_truth": "29AAACL9861H1Z2",
+            "result": "correct"
+        },
+        "DocNo": {
+            "extracted": "HPPL/22-23/601",
+            "ground_truth": "HPPL/22-23/601",
+            "result": "correct"
+        },
+        "DocDt": {
+            "extracted": "28-03-2023",
+            "ground_truth": "28-03-2023",
+            "result": "correct"
+        },
+        "TotInvVal": {
+            "extracted": 1640852,
+            "ground_truth": 1640852,
+            "result": "correct"
+        },
+        "perfect_match": true
+    },
+    {
+        "Filename": "DSINV2023241707",
+        "SellerGstin": {
+            "extracted": "27AABCT1029L1ZC",
+            "ground_truth": "27AABCT1029L1ZC",
+            "result": "correct"
+        },
+        "BuyerGstin": {
+            "extracted": "19AAJCA1167G1ZO",
+            "ground_truth": "19AAJCA1167G1ZO",
+            "result": "correct"
+        },
+        "DocNo": {
+            "extracted": "2714003458",
+            "ground_truth": "2714003458",
+            "result": "correct"
+        },
+        "DocDt": {
+            "extracted": "02-04-2023",
+            "ground_truth": "02-04-2023",
+            "result": "correct"
+        },
+        "TotInvVal": {
+            "extracted": 2041790,
+            "ground_truth": 2041790,
+            "result": "correct"
+        },
+        "perfect_match": true
+    },
+    {
+        "Filename": "DSINV2023241698",
+        "SellerGstin": {
+            "extracted": null,
+            "ground_truth": "27AABCT1029L1ZC",
+            "result": "not_extracted"
+        },
+        "BuyerGstin": {
+            "extracted": null,
+            "ground_truth": "19AAJCA1167G1ZO",
+            "result": "not_extracted"
+        },
+        "DocNo": {
+            "extracted": "2714004900",
+            "ground_truth": "2714004900",
+            "result": "correct"
+        },
+        "DocDt": {
+            "extracted": "07-05-2023",
+            "ground_truth": "07-05-2023",
+            "result": "correct"
+        },
+        "TotInvVal": {
+            "extracted": 2064314,
+            "ground_truth": 2064314,
+            "result": "correct"
+        },
+        "perfect_match": false
+    },
+    {
+        "Filename": "Raw Material - 6",
+        "SellerGstin": {
+            "extracted": "27AAJCP0613L2ZB",
+            "ground_truth": "27AAJCP0613L2ZB",
+            "result": "correct"
+        },
+        "BuyerGstin": {
+            "extracted": "27AAACI1530L1ZQ",
+            "ground_truth": "27AAACI1530L1ZQ",
+            "result": "correct"
+        },
+        "DocNo": {
+            "extracted": "GHUSL0200199",
+            "ground_truth": "GHUSL0200199",
+            "result": "correct"
+        },
+        "DocDt": {
+            "extracted": "28-02-2023",
+            "ground_truth": "28-02-2023",
+            "result": "correct"
+        },
+        "TotInvVal": {
+            "extracted": 271796,
+            "ground_truth": 271796,
+            "result": "correct"
+        },
+        "perfect_match": true
+    },
+    {
+        "Filename": "4811318932",
+        "SellerGstin": {
+            "extracted": "07AAACD3254A2ZA",
+            "ground_truth": "07AAACD3254A2ZA",
+            "result": "correct"
+        },
+        "BuyerGstin": {
+            "extracted": "07AAJCA1167G1ZT",
+            "ground_truth": "07AAJCA1167G1ZT",
+            "result": "correct"
+        },
+        "DocNo": {
+            "extracted": "ZE3010000395",
+            "ground_truth": "ZE3010000395",
+            "result": "correct"
+        },
+        "DocDt": {
+            "extracted": "01-05-2023",
+            "ground_truth": "01-05-2023",
+            "result": "correct"
+        },
+        "TotInvVal": {
+            "extracted": 2211717,
+            "ground_truth": 2211717,
+            "result": "correct"
+        },
+        "perfect_match": true
+    },
+    {
+        "Filename": "Shree Adinath Overseas",
+        "SellerGstin": {
+            "extracted": "06AFFPJ7436M1Z4",
+            "ground_truth": "06AFFPJ7436M1Z4",
+            "result": "correct"
+        },
+        "BuyerGstin": {
+            "extracted": "06AAFCD5214M1ZN",
+            "ground_truth": "06AAFCD5214M1ZN",
+            "result": "correct"
+        },
+        "DocNo": {
+            "extracted": "SAO/22-23/2424",
+            "ground_truth": "SAO/22-23/2424",
+            "result": "correct"
+        },
+        "DocDt": {
+            "extracted": "24-03-2023",
+            "ground_truth": "24-03-2023",
+            "result": "correct"
+        },
+        "TotInvVal": {
+            "extracted": 592288,
+            "ground_truth": 592288,
+            "result": "correct"
+        },
+        "perfect_match": true
+    },
+    {
+        "Filename": "DSINV2023241701",
+        "SellerGstin": {
+            "extracted": "27AABCT1029L1ZC",
+            "ground_truth": "27AABCT1029L1ZC",
+            "result": "correct"
+        },
+        "BuyerGstin": {
+            "extracted": "19AAJCA1167G1ZO",
+            "ground_truth": "19AAJCA1167G1ZO",
+            "result": "correct"
+        },
+        "DocNo": {
+            "extracted": "2714004687",
+            "ground_truth": "2714004687",
+            "result": "correct"
+        },
+        "DocDt": {
+            "extracted": "01-05-2023",
+            "ground_truth": "01-05-2023",
+            "result": "correct"
+        },
+        "TotInvVal": {
+            "extracted": 2216782,
+            "ground_truth": 2216782,
+            "result": "correct"
+        },
+        "perfect_match": true
+    },
+    {
+        "Filename": "DSINV2023241715",
+        "SellerGstin": {
+            "extracted": "33AAECV0280C1ZU",
+            "ground_truth": "33AAECV0280C1ZU",
+            "result": "correct"
+        },
+        "BuyerGstin": {
+            "extracted": "33AAJCA1167G1ZY",
+            "ground_truth": "33AAJCA1167G1ZY",
+            "result": "correct"
+        },
+        "DocNo": {
+            "extracted": "12/CR 23-24",
+            "ground_truth": "12/CR23-24",
+            "result": "wrong"
+        },
+        "DocDt": {
+            "extracted": "16-05-2023",
+            "ground_truth": "16-05-2023",
+            "result": "correct"
+        },
+        "TotInvVal": {
+            "extracted": 4567,
+            "ground_truth": 4567,
+            "result": "correct"
+        },
+        "perfect_match": false
+    },
+    {
+        "Filename": "Export - 4",
+        "SellerGstin": {
+            "extracted": "27AABCV7123P1ZV",
+            "ground_truth": "27AABCV7123P1ZV",
+            "result": "correct"
+        },
+        "BuyerGstin": {
+            "extracted": "27AAACI1530L1ZQ",
+            "ground_truth": "27AAACI1530L1ZQ",
+            "result": "correct"
+        },
+        "DocNo": {
+            "extracted": "MH/02/2223/05085",
+            "ground_truth": "MH/02/2223/05085",
+            "result": "correct"
+        },
+        "DocDt": {
+            "extracted": "11-07-2022",
+            "ground_truth": "11-07-2022",
+            "result": "correct"
+        },
+        "TotInvVal": {
+            "extracted": 149771,
+            "ground_truth": 149771,
+            "result": "correct"
+        },
+        "perfect_match": true
+    },
+    {
+        "Filename": "Logistics - 5",
+        "SellerGstin": {
+            "extracted": "24ADIFS9230K1ZR",
+            "ground_truth": "24ADIFS9230K1ZR",
+            "result": "correct"
+        },
+        "BuyerGstin": {
+            "extracted": "27AAACI1530L1ZQ",
+            "ground_truth": "27AAACI1530L1ZQ",
+            "result": "correct"
+        },
+        "DocNo": {
+            "extracted": "7240/22",
+            "ground_truth": "7240/22",
+            "result": "correct"
+        },
+        "DocDt": {
+            "extracted": "31-03-2023",
+            "ground_truth": "31-03-2023",
+            "result": "correct"
+        },
+        "TotInvVal": {
+            "extracted": 117089,
+            "ground_truth": 117089,
+            "result": "correct"
+        },
+        "perfect_match": true
+    },
+    {
+        "Filename": "Class V - 1",
+        "SellerGstin": {
+            "extracted": "27AACCM4945P1ZV",
+            "ground_truth": "27AACCM4945P1ZV",
+            "result": "correct"
+        },
+        "BuyerGstin": {
+            "extracted": "27AAACI1530L1ZQ",
+            "ground_truth": "27AAACI1530L1ZQ",
+            "result": "correct"
+        },
+        "DocNo": {
+            "extracted": "MH04EMI066001220",
+            "ground_truth": "MH04EMI066001220",
+            "result": "correct"
+        },
+        "DocDt": {
+            "extracted": "09-03-2021",
+            "ground_truth": "09-03-2021",
+            "result": "correct"
+        },
+        "TotInvVal": {
+            "extracted": 472,
+            "ground_truth": 472,
+            "result": "correct"
+        },
+        "perfect_match": true
+    },
+    {
+        "Filename": "DSINV2023241697",
+        "SellerGstin": {
+            "extracted": "27AABCT1029L1ZC",
+            "ground_truth": "27AABCT1029L1ZC",
+            "result": "correct"
+        },
+        "BuyerGstin": {
+            "extracted": "19AAJCA1167G1ZO",
+            "ground_truth": "19AAJCA1167G1ZO",
+            "result": "correct"
+        },
+        "DocNo": {
+            "extracted": "2714004902",
+            "ground_truth": "2714004902",
+            "result": "correct"
+        },
+        "DocDt": {
+            "extracted": "07-05-2023",
+            "ground_truth": "07-05-2023",
+            "result": "correct"
+        },
+        "TotInvVal": {
+            "extracted": 2127700,
+            "ground_truth": 2127700,
+            "result": "correct"
+        },
+        "perfect_match": true
+    },
+    {
+        "Filename": "DSINV2023241710",
+        "SellerGstin": {
+            "extracted": "27AABCT1029L1ZC",
+            "ground_truth": "27AABCT1029L1ZC",
+            "result": "correct"
+        },
+        "BuyerGstin": {
+            "extracted": "19AAJCA1167G1ZO",
+            "ground_truth": "19AAJCA1167G1ZO",
+            "result": "correct"
+        },
+        "DocNo": {
+            "extracted": "2714004898",
+            "ground_truth": "2714004898",
+            "result": "correct"
+        },
+        "DocDt": {
+            "extracted": "07-05-2023",
+            "ground_truth": "07-05-2023",
+            "result": "correct"
+        },
+        "TotInvVal": {
+            "extracted": 2250300,
+            "ground_truth": 2250300,
+            "result": "correct"
+        },
+        "perfect_match": true
+    },
+    {
+        "Filename": "DSINV2023241703",
+        "SellerGstin": {
+            "extracted": null,
+            "ground_truth": "27AABCT1029L1ZC",
+            "result": "not_extracted"
+        },
+        "BuyerGstin": {
+            "extracted": null,
+            "ground_truth": "19AAJCA1167G1ZO",
+            "result": "not_extracted"
+        },
+        "DocNo": {
+            "extracted": "2714004560",
+            "ground_truth": "2714004560",
+            "result": "correct"
+        },
+        "DocDt": {
+            "extracted": "29-04-2023",
+            "ground_truth": "29-04-2023",
+            "result": "correct"
+        },
+        "TotInvVal": {
+            "extracted": 2155650,
+            "ground_truth": 2155650,
+            "result": "correct"
+        },
+        "perfect_match": false
+    },
+    {
+        "Filename": "DSINV2023241699",
+        "SellerGstin": {
+            "extracted": "27AABCT1029L1ZC",
+            "ground_truth": "27AABCT1029L1ZC",
+            "result": "correct"
+        },
+        "BuyerGstin": {
+            "extracted": "19AAJCA1167G1ZO",
+            "ground_truth": "19AAJCA1167G1ZO",
+            "result": "correct"
+        },
+        "DocNo": {
+            "extracted": "2714004689",
+            "ground_truth": "2714004689",
+            "result": "correct"
+        },
+        "DocDt": {
+            "extracted": "01-05-2023",
+            "ground_truth": "01-05-2023",
+            "result": "correct"
+        },
+        "TotInvVal": {
+            "extracted": 2064314,
+            "ground_truth": 2064314,
+            "result": "correct"
+        },
+        "perfect_match": true
+    },
+    {
+        "Filename": "Class I - 1 Samples (24)",
+        "SellerGstin": {
+            "extracted": "27AACCM4945P1ZV",
+            "ground_truth": "27AACCM4945P1ZV",
+            "result": "correct"
+        },
+        "BuyerGstin": {
+            "extracted": "27AAACI1530L1ZQ",
+            "ground_truth": "27AAACI1530L1ZQ",
+            "result": "correct"
+        },
+        "DocNo": {
+            "extracted": "MH04EMI066001220",
+            "ground_truth": "MH04EMI066001220",
+            "result": "correct"
+        },
+        "DocDt": {
+            "extracted": "09-03-2021",
+            "ground_truth": "09-03-2021",
+            "result": "correct"
+        },
+        "TotInvVal": {
+            "extracted": 472,
+            "ground_truth": 472,
+            "result": "correct"
+        },
+        "perfect_match": true
+    },
+    {
+        "Filename": "Class II - 7",
+        "SellerGstin": {
+            "extracted": "27AACCM4945P1ZV",
+            "ground_truth": "27AACCM4945P1ZV",
+            "result": "correct"
+        },
+        "BuyerGstin": {
+            "extracted": "27AAACI1530L1ZQ",
+            "ground_truth": "27AAACI1530L1ZQ",
+            "result": "correct"
+        },
+        "DocNo": {
+            "extracted": "MH04EMI032970522",
+            "ground_truth": "MH04EMI032970522",
+            "result": "correct"
+        },
+        "DocDt": {
+            "extracted": "08-08-2022",
+            "ground_truth": "08-08-2022",
+            "result": "correct"
+        },
+        "TotInvVal": {
+            "extracted": 3894,
+            "ground_truth": 3894,
+            "result": "correct"
+        },
+        "perfect_match": true
+    },
+    {
+        "Filename": "GW01210600722",
+        "SellerGstin": {
+            "extracted": "24AAACH3583Q1Z6",
+            "ground_truth": "24AAACH3583Q1Z6",
+            "result": "correct"
+        },
+        "BuyerGstin": {
+            "extracted": "invalid_format",
+            "ground_truth": "24AAACL6442L1ZG",
+            "result": "wrong"
+        },
+        "DocNo": {
+            "extracted": "IV24-1854-2021",
+            "ground_truth": "IV24-1854-2021",
+            "result": "correct"
+        },
+        "DocDt": {
+            "extracted": "25-05-2021",
+            "ground_truth": "25-05-2021",
+            "result": "correct"
+        },
+        "TotInvVal": {
+            "extracted": 351657,
+            "ground_truth": 240983,
+            "result": "wrong"
+        },
+        "perfect_match": false
+    },
+    {
+        "Filename": "Class I - 1 Samples (17)",
+        "SellerGstin": {
+            "extracted": "27AABFO8697A1Z2",
+            "ground_truth": "27AABFO8697A1Z2",
+            "result": "correct"
+        },
+        "BuyerGstin": {
+            "extracted": "27AAACI1530L1ZQ",
+            "ground_truth": "27AAACI1530L1ZQ",
+            "result": "correct"
+        },
+        "DocNo": {
+            "extracted": "8853",
+            "ground_truth": "8853",
+            "result": "correct"
+        },
+        "DocDt": {
+            "extracted": "24-11-2022",
+            "ground_truth": "24-11-2022",
+            "result": "correct"
+        },
+        "TotInvVal": {
+            "extracted": 756047,
+            "ground_truth": 756047,
+            "result": "correct"
+        },
+        "perfect_match": true
+    },
+    {
+        "Filename": "Logistics - 2",
+        "SellerGstin": {
+            "extracted": "27AABCV7123P1ZV",
+            "ground_truth": "27AABCV7123P1ZV",
+            "result": "correct"
+        },
+        "BuyerGstin": {
+            "extracted": "27AAACI1530L1ZQ",
+            "ground_truth": "27AAACI1530L1ZQ",
+            "result": "correct"
+        },
+        "DocNo": {
+            "extracted": "MH/02/2324/00376",
+            "ground_truth": "MH/02/2324/00376",
+            "result": "correct"
+        },
+        "DocDt": {
+            "extracted": "11-04-2023",
+            "ground_truth": "11-04-2023",
+            "result": "correct"
+        },
+        "TotInvVal": {
+            "extracted": 93639,
+            "ground_truth": 93639,
+            "result": "correct"
+        },
+        "perfect_match": true
+    },
+    {
+        "Filename": "Class II - 10",
+        "SellerGstin": {
+            "extracted": "27AAJCP0613L2ZB",
+            "ground_truth": "27AAJCP0613L2ZB",
+            "result": "correct"
+        },
+        "BuyerGstin": {
+            "extracted": "27AAACI1530L1ZQ",
+            "ground_truth": "27AAACI1530L1ZQ",
+            "result": "correct"
+        },
+        "DocNo": {
+            "extracted": "GONSL080047",
+            "ground_truth": "GONSL080047",
+            "result": "correct"
+        },
+        "DocDt": {
+            "extracted": "14-08-2022",
+            "ground_truth": "14-08-2022",
+            "result": "correct"
+        },
+        "TotInvVal": {
+            "extracted": 340575,
+            "ground_truth": 340575,
+            "result": "correct"
+        },
+        "perfect_match": true
+    },
+    {
+        "Filename": "Class II - 2",
+        "SellerGstin": {
+            "extracted": "27AABCL3609C1ZX",
+            "ground_truth": "27AABCL3609C1ZX",
+            "result": "correct"
+        },
+        "BuyerGstin": {
+            "extracted": "27AAACI1530L1ZQ",
+            "ground_truth": "27AAACI1530L1ZQ",
+            "result": "correct"
+        },
+        "DocNo": {
+            "extracted": "LISPL/22-23/0125",
+            "ground_truth": "LISPL/22-23/0125",
+            "result": "correct"
+        },
+        "DocDt": {
+            "extracted": "26-08-2022",
+            "ground_truth": "26-08-2022",
+            "result": "correct"
+        },
+        "TotInvVal": {
+            "extracted": 129859,
+            "ground_truth": 129859,
+            "result": "correct"
+        },
+        "perfect_match": true
+    },
+    {
+        "Filename": "Class II - 5",
+        "SellerGstin": {
+            "extracted": "27AAACR5055K1Z7",
+            "ground_truth": "27AAACR5055K1Z7",
+            "result": "correct"
+        },
+        "BuyerGstin": {
+            "extracted": "27AAACI1530L1ZQ",
+            "ground_truth": "27AAACI1530L1ZQ",
+            "result": "correct"
+        },
+        "DocNo": {
+            "extracted": "27183012014456",
+            "ground_truth": "27183012014456",
+            "result": "correct"
+        },
+        "DocDt": {
+            "extracted": "09-08-2022",
+            "ground_truth": "09-08-2022",
+            "result": "correct"
+        },
+        "TotInvVal": {
+            "extracted": 2715364,
+            "ground_truth": 2715364,
+            "result": "correct"
+        },
+        "perfect_match": true
+    },
+    {
+        "Filename": "Class I - 1 Samples (16)",
+        "SellerGstin": {
+            "extracted": "06AAACI1681G3ZR",
+            "ground_truth": "06AAACI1681G3ZR",
+            "result": "correct"
+        },
+        "BuyerGstin": {
+            "extracted": "27AAACI1530L1ZQ",
+            "ground_truth": "27AAACI1530L1ZQ",
+            "result": "correct"
+        },
+        "DocNo": {
+            "extracted": "20210031B012336",
+            "ground_truth": "HR5567053569",
+            "result": "wrong"
+        },
+        "DocDt": {
+            "extracted": "27-01-2021",
+            "ground_truth": "27-01-2021",
+            "result": "correct"
+        },
+        "TotInvVal": {
+            "extracted": 1872604,
+            "ground_truth": 1872604,
+            "result": "correct"
+        },
+        "perfect_match": false
+    },
+    {
+        "Filename": "Class III - 1",
+        "SellerGstin": {
+            "extracted": "06AAACI1681G3ZR",
+            "ground_truth": "06AAACI1681G3ZR",
+            "result": "correct"
+        },
+        "BuyerGstin": {
+            "extracted": "27AAACI1530L1ZQ",
+            "ground_truth": "27AAACI1530L1ZQ",
+            "result": "correct"
+        },
+        "DocNo": {
+            "extracted": "20210031B012336",
+            "ground_truth": "HR5567053569",
+            "result": "wrong"
+        },
+        "DocDt": {
+            "extracted": "27-01-2021",
+            "ground_truth": "27-01-2021",
+            "result": "correct"
+        },
+        "TotInvVal": {
+            "extracted": 91135,
+            "ground_truth": 1872604,
+            "result": "wrong"
+        },
+        "perfect_match": false
+    },
+    {
+        "Filename": "DSINV2023241728",
+        "SellerGstin": {
+            "extracted": "29AATCS9490A1ZP",
+            "ground_truth": "29AATCS9490A1ZP",
+            "result": "correct"
+        },
+        "BuyerGstin": {
+            "extracted": "29AAJCA1167G1ZN",
+            "ground_truth": "29AAJCA1167G1ZN",
+            "result": "correct"
+        },
+        "DocNo": {
+            "extracted": "KA/2023-24/1555",
+            "ground_truth": "KA/2023-24/1555",
+            "result": "correct"
+        },
+        "DocDt": {
+            "extracted": "16-05-2023",
+            "ground_truth": "16-05-2023",
+            "result": "correct"
+        },
+        "TotInvVal": {
+            "extracted": 100735,
+            "ground_truth": 100735,
+            "result": "correct"
+        },
+        "perfect_match": true
+    },
+    {
+        "Filename": "Class I - 1 Samples (14)",
+        "SellerGstin": {
+            "extracted": "24AAACB4026C1ZH",
+            "ground_truth": "24AAACB4026C1ZH",
+            "result": "correct"
+        },
+        "BuyerGstin": {
+            "extracted": "27AAACI1530L1ZQ",
+            "ground_truth": "27AAACI1530L1ZQ",
+            "result": "correct"
+        },
+        "DocNo": {
+            "extracted": "SI2421000298",
+            "ground_truth": "SI2421000298",
+            "result": "correct"
+        },
+        "DocDt": {
+            "extracted": "19-04-2021",
+            "ground_truth": "19-04-2021",
+            "result": "correct"
+        },
+        "TotInvVal": {
+            "extracted": 28320,
+            "ground_truth": 28320,
+            "result": "correct"
+        },
+        "perfect_match": true
+    },
+    {
+        "Filename": "DSINV2023241754",
+        "SellerGstin": {
+            "extracted": "29AABCS0858G1Z9",
+            "ground_truth": "29AABCS0858G1Z9",
+            "result": "correct"
+        },
+        "BuyerGstin": {
+            "extracted": "23AAJCA1167G1ZZ",
+            "ground_truth": "23AAJCA1167G1ZZ",
+            "result": "correct"
+        },
+        "DocNo": {
+            "extracted": "KA/2024/S-000170",
+            "ground_truth": "KA/2024/S-000170",
+            "result": "correct"
+        },
+        "DocDt": {
+            "extracted": "17-05-2023",
+            "ground_truth": "17-05-2023",
+            "result": "correct"
+        },
+        "TotInvVal": {
+            "extracted": 41300,
+            "ground_truth": 41300,
+            "result": "correct"
+        },
+        "perfect_match": true
+    },
+    {
+        "Filename": "Class III - 2",
+        "SellerGstin": {
+            "extracted": "27AABFO8697A1Z2",
+            "ground_truth": "27AABFO8697A1Z2",
+            "result": "correct"
+        },
+        "BuyerGstin": {
+            "extracted": "27AAACI1530L1ZQ",
+            "ground_truth": "27AAACI1530L1ZQ",
+            "result": "correct"
+        },
+        "DocNo": {
+            "extracted": "8853",
+            "ground_truth": "8853",
+            "result": "correct"
+        },
+        "DocDt": {
+            "extracted": "24-11-2022",
+            "ground_truth": "24-11-2022",
+            "result": "correct"
+        },
+        "TotInvVal": {
+            "extracted": 68,
+            "ground_truth": 756047,
+            "result": "wrong"
+        },
+        "perfect_match": false
+    },
+    {
+        "Filename": "DSINV2023241724",
+        "SellerGstin": {
+            "extracted": "19AAECD2713N1ZH",
+            "ground_truth": "19AAECD2713N1ZH",
+            "result": "correct"
+        },
+        "BuyerGstin": {
+            "extracted": "19AAJCA1167G1ZO",
+            "ground_truth": "19AAJCA1167G1ZO",
+            "result": "correct"
+        },
+        "DocNo": {
+            "extracted": "6888493791",
+            "ground_truth": "6888493791",
+            "result": "correct"
+        },
+        "DocDt": {
+            "extracted": "15-05-2023",
+            "ground_truth": "15-05-2023",
+            "result": "correct"
+        },
+        "TotInvVal": {
+            "extracted": 6918,
+            "ground_truth": 6918,
+            "result": "correct"
+        },
+        "perfect_match": true
+    },
+    {
+        "Filename": "Shipping - 2",
+        "SellerGstin": {
+            "extracted": "27AACCO6217A1ZV",
+            "ground_truth": "27AACCO6217A1ZV",
+            "result": "correct"
+        },
+        "BuyerGstin": {
+            "extracted": "06AAACI1530L3ZS",
+            "ground_truth": "06AAACI1530L3ZS",
+            "result": "correct"
+        },
+        "DocNo": {
+            "extracted": "IN27220163653",
+            "ground_truth": "IN27220163653",
+            "result": "correct"
+        },
+        "DocDt": {
+            "extracted": "28-03-2023",
+            "ground_truth": "28-03-2023",
+            "result": "correct"
+        },
+        "TotInvVal": {
+            "extracted": 365,
+            "ground_truth": 30452,
+            "result": "wrong"
+        },
+        "perfect_match": false
+    },
+    {
+        "Filename": "Raw Material - 1",
+        "SellerGstin": {
+            "extracted": "19AAACM9169K1ZU",
+            "ground_truth": "19AAACM9169K1ZU",
+            "result": "correct"
+        },
+        "BuyerGstin": {
+            "extracted": "19AAFCD5214M1ZG",
+            "ground_truth": "19AAFCD5214M1ZG",
+            "result": "correct"
+        },
+        "DocNo": {
+            "extracted": "23WBD340002115",
+            "ground_truth": "23WBD340002115",
+            "result": "correct"
+        },
+        "DocDt": {
+            "extracted": "16-04-2023",
+            "ground_truth": "16-04-2023",
+            "result": "correct"
+        },
+        "TotInvVal": {
+            "extracted": 2017813,
+            "ground_truth": 2017813,
+            "result": "correct"
+        },
+        "perfect_match": true
+    },
+    {
+        "Filename": "DSINV2023241714",
+        "SellerGstin": {
+            "extracted": "33AAECV0280C1ZU",
+            "ground_truth": "33AAECV0280C1ZU",
+            "result": "correct"
+        },
+        "BuyerGstin": {
+            "extracted": "33AAJCA1167G1ZY",
+            "ground_truth": "33AAJCA1167G1ZY",
+            "result": "correct"
+        },
+        "DocNo": {
+            "extracted": "109/2023-24",
+            "ground_truth": "109/2023-24",
+            "result": "correct"
+        },
+        "DocDt": {
+            "extracted": "16-05-2023",
+            "ground_truth": "16-05-2023",
+            "result": "correct"
+        },
+        "TotInvVal": {
+            "extracted": 1564241,
+            "ground_truth": 1564241,
+            "result": "correct"
+        },
+        "perfect_match": true
+    },
+    {
+        "Filename": "DSINV2023241712",
+        "SellerGstin": {
+            "extracted": "09AAACR9626A1ZH",
+            "ground_truth": "09AAACR9626A1ZH",
+            "result": "correct"
+        },
+        "BuyerGstin": {
+            "extracted": "09AAKCM0652P1ZX",
+            "ground_truth": "09AAKCM0652P1ZX",
+            "result": "correct"
+        },
+        "DocNo": {
+            "extracted": "1500012989",
+            "ground_truth": "UP0020003479",
+            "result": "wrong"
+        },
+        "DocDt": {
+            "extracted": "09-03-2022",
+            "ground_truth": "09-03-2022",
+            "result": "correct"
+        },
+        "TotInvVal": {
+            "extracted": 121219,
+            "ground_truth": 143038,
+            "result": "wrong"
+        },
+        "perfect_match": false
+    },
+    {
+        "Filename": "Class II - 8",
+        "SellerGstin": {
+            "extracted": "19AAEF06235H1Z4",
+            "ground_truth": "19AAFCD5214M1ZG",
+            "result": "wrong"
+        },
+        "BuyerGstin": {
+            "extracted": "06AAFCD5214M1ZM",
+            "ground_truth": "06AAFCD5214M1ZN",
+            "result": "wrong"
+        },
+        "DocNo": {
+            "extracted": "017779",
+            "ground_truth": "1012223006297",
+            "result": "wrong"
+        },
+        "DocDt": {
+            "extracted": "31-08-2022",
+            "ground_truth": "31-08-2022",
+            "result": "correct"
+        },
+        "TotInvVal": {
+            "extracted": 3895947,
+            "ground_truth": 3895947,
+            "result": "correct"
+        },
+        "perfect_match": false
+    }
+]

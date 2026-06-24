@@ -1,0 +1,234 @@
+[
+    {
+        "Filename": "DSINV2023241709",
+        "failures": [
+            {
+                "field": "TotInvVal",
+                "reason": "not_extracted",
+                "extracted": null,
+                "ground_truth": 1507435
+            }
+        ]
+    },
+    {
+        "Filename": "Class II - 6",
+        "failures": [
+            {
+                "field": "SellerGstin",
+                "reason": "wrong",
+                "extracted": "09AABCC8524H1ZM",
+                "ground_truth": "09AAGCB3615B1Z4"
+            },
+            {
+                "field": "DocNo",
+                "reason": "wrong",
+                "extracted": "TI-2223/05422",
+                "ground_truth": "BNK/22-23/0104"
+            },
+            {
+                "field": "DocDt",
+                "reason": "wrong",
+                "extracted": "21-11-2022",
+                "ground_truth": "01-08-2022"
+            }
+        ]
+    },
+    {
+        "Filename": "DSINV2023241700",
+        "failures": [
+            {
+                "field": "SellerGstin",
+                "reason": "not_extracted",
+                "extracted": null,
+                "ground_truth": "27AABCT1029L1ZC"
+            },
+            {
+                "field": "BuyerGstin",
+                "reason": "not_extracted",
+                "extracted": null,
+                "ground_truth": "19AAJCA1167G1ZO"
+            }
+        ]
+    },
+    {
+        "Filename": "Class II - 1",
+        "failures": [
+            {
+                "field": "SellerGstin",
+                "reason": "wrong",
+                "extracted": "24AAACV5048G1ZH",
+                "ground_truth": "27AIVPT3472A1ZW"
+            },
+            {
+                "field": "BuyerGstin",
+                "reason": "wrong",
+                "extracted": "27AAGCI2068F1ZM",
+                "ground_truth": "27AAACI1530L1ZQ"
+            },
+            {
+                "field": "DocNo",
+                "reason": "wrong",
+                "extracted": "SAV/2223/1829",
+                "ground_truth": "2022-2023/0024"
+            },
+            {
+                "field": "DocDt",
+                "reason": "wrong",
+                "extracted": "09-12-2022",
+                "ground_truth": "02-05-2022"
+            }
+        ]
+    },
+    {
+        "Filename": "DSINV2023241698",
+        "failures": [
+            {
+                "field": "SellerGstin",
+                "reason": "not_extracted",
+                "extracted": null,
+                "ground_truth": "27AABCT1029L1ZC"
+            },
+            {
+                "field": "BuyerGstin",
+                "reason": "not_extracted",
+                "extracted": null,
+                "ground_truth": "19AAJCA1167G1ZO"
+            }
+        ]
+    },
+    {
+        "Filename": "DSINV2023241715",
+        "failures": [
+            {
+                "field": "DocNo",
+                "reason": "wrong",
+                "extracted": "12/CR 23-24",
+                "ground_truth": "12/CR23-24"
+            }
+        ]
+    },
+    {
+        "Filename": "DSINV2023241703",
+        "failures": [
+            {
+                "field": "SellerGstin",
+                "reason": "not_extracted",
+                "extracted": null,
+                "ground_truth": "27AABCT1029L1ZC"
+            },
+            {
+                "field": "BuyerGstin",
+                "reason": "not_extracted",
+                "extracted": null,
+                "ground_truth": "19AAJCA1167G1ZO"
+            }
+        ]
+    },
+    {
+        "Filename": "GW01210600722",
+        "failures": [
+            {
+                "field": "BuyerGstin",
+                "reason": "wrong",
+                "extracted": "invalid_format",
+                "ground_truth": "24AAACL6442L1ZG"
+            },
+            {
+                "field": "TotInvVal",
+                "reason": "wrong",
+                "extracted": 351657,
+                "ground_truth": 240983
+            }
+        ]
+    },
+    {
+        "Filename": "Class I - 1 Samples (16)",
+        "failures": [
+            {
+                "field": "DocNo",
+                "reason": "wrong",
+                "extracted": "20210031B012336",
+                "ground_truth": "HR5567053569"
+            }
+        ]
+    },
+    {
+        "Filename": "Class III - 1",
+        "failures": [
+            {
+                "field": "DocNo",
+                "reason": "wrong",
+                "extracted": "20210031B012336",
+                "ground_truth": "HR5567053569"
+            },
+            {
+                "field": "TotInvVal",
+                "reason": "wrong",
+                "extracted": 91135,
+                "ground_truth": 1872604
+            }
+        ]
+    },
+    {
+        "Filename": "Class III - 2",
+        "failures": [
+            {
+                "field": "TotInvVal",
+                "reason": "wrong",
+                "extracted": 68,
+                "ground_truth": 756047
+            }
+        ]
+    },
+    {
+        "Filename": "Shipping - 2",
+        "failures": [
+            {
+                "field": "TotInvVal",
+                "reason": "wrong",
+                "extracted": 365,
+                "ground_truth": 30452
+            }
+        ]
+    },
+    {
+        "Filename": "DSINV2023241712",
+        "failures": [
+            {
+                "field": "DocNo",
+                "reason": "wrong",
+                "extracted": "1500012989",
+                "ground_truth": "UP0020003479"
+            },
+            {
+                "field": "TotInvVal",
+                "reason": "wrong",
+                "extracted": 121219,
+                "ground_truth": 143038
+            }
+        ]
+    },
+    {
+        "Filename": "Class II - 8",
+        "failures": [
+            {
+                "field": "SellerGstin",
+                "reason": "wrong",
+                "extracted": "19AAEF06235H1Z4",
+                "ground_truth": "19AAFCD5214M1ZG"
+            },
+            {
+                "field": "BuyerGstin",
+                "reason": "wrong",
+                "extracted": "06AAFCD5214M1ZM",
+                "ground_truth": "06AAFCD5214M1ZN"
+            },
+            {
+                "field": "DocNo",
+                "reason": "wrong",
+                "extracted": "017779",
+                "ground_truth": "1012223006297"
+            }
+        ]
+    }
+]

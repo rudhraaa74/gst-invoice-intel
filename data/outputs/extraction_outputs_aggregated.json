@@ -1,0 +1,2482 @@
+[
+    {
+        "Filename": "The Net",
+        "SellerGstin": "19AADFT0575G1Z3",
+        "BuyerGstin": "19AAFCD5214M1ZG",
+        "DocNo": "243/22-23",
+        "DocDt": "31.03.23",
+        "TotInvVal": 9631.0
+    },
+    {
+        "Filename": "Class I - 7",
+        "SellerGstin": "27ABUPK3258M1ZW",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "13810",
+        "DocDt": "26/03/2021",
+        "TotInvVal": 1000.0
+    },
+    {
+        "Filename": "5200018762",
+        "SellerGstin": "09AHMPG3197P1ZI",
+        "BuyerGstin": "09AAFCA8794B1ZG",
+        "DocNo": "10",
+        "DocDt": "17-Apr-2023",
+        "TotInvVal": 18449.0
+    },
+    {
+        "Filename": "Domestic Freight - 6",
+        "SellerGstin": "27EUHPS1194A1ZK",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "SL/2022-23/INDO-196",
+        "DocDt": "30.03.2023",
+        "TotInvVal": 14668.0
+    },
+    {
+        "Filename": "2006696",
+        "SellerGstin": "29AAACL9861H1Z2",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "2006696",
+        "DocDt": "28/03/2018",
+        "TotInvVal": 48615.85
+    },
+    {
+        "Filename": "Raw Material - 8",
+        "SellerGstin": "27AACPS1097D1ZQ",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "004043",
+        "DocDt": "09/11/2022",
+        "TotInvVal": 9437640.0
+    },
+    {
+        "Filename": "Class VII - 2",
+        "SellerGstin": "27AIOPB0896P1ZK",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "447",
+        "DocDt": "19/08/22",
+        "TotInvVal": 47549.0
+    },
+    {
+        "Filename": "Class III - 4",
+        "SellerGstin": "26AAIFA2434N1ZD",
+        "BuyerGstin": "27AAAC11530L1ZQ",
+        "DocNo": "CT2100018",
+        "DocDt": "10/04/2021",
+        "TotInvVal": 144727.0
+    },
+    {
+        "Filename": "DSINV2023241704",
+        "SellerGstin": "27AABCT1029L1ZC",
+        "BuyerGstin": "19AAJCA1167G1ZO",
+        "DocNo": "2714004260",
+        "DocDt": "23.04.2023",
+        "TotInvVal": 2158536.25
+    },
+    {
+        "Filename": "2004044",
+        "SellerGstin": "29AAACL9861H1Z2",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "2004044",
+        "DocDt": "18/02/2022",
+        "TotInvVal": 116169.0
+    },
+    {
+        "Filename": "Class I - 1 Samples (1)",
+        "SellerGstin": "27AABCK2531J1ZO",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "2578/20-21",
+        "DocDt": "11-Jan-2021",
+        "TotInvVal": 1273.0
+    },
+    {
+        "Filename": "2021353",
+        "SellerGstin": null,
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "261702610750",
+        "DocDt": "23-10-2017",
+        "TotInvVal": 1877276.0
+    },
+    {
+        "Filename": "DSINV2023241725",
+        "SellerGstin": "19AAECD2713N1ZH",
+        "BuyerGstin": "19AAJCA1167G1ZO",
+        "DocNo": "6888493792",
+        "DocDt": "15-05-2023",
+        "TotInvVal": 428354.16
+    },
+    {
+        "Filename": "2005136",
+        "SellerGstin": "29AAACL9861H1Z2",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "2005136",
+        "DocDt": "09/03/2018",
+        "TotInvVal": 8001058.0
+    },
+    {
+        "Filename": "Import - 3",
+        "SellerGstin": "27AAICG7699A1Z9",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "GOLIINV012308631",
+        "DocDt": "11/01/2023",
+        "TotInvVal": 2340578.0
+    },
+    {
+        "Filename": "Class I - 1",
+        "SellerGstin": "27AABCK2531J1ZO",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "2578/20-21",
+        "DocDt": "11-Jan-2021",
+        "TotInvVal": 1273.0
+    },
+    {
+        "Filename": "Class III - 3",
+        "SellerGstin": "27AAJCM4693D1Z8",
+        "BuyerGstin": null,
+        "DocNo": "5021371752",
+        "DocDt": "08.07.2021",
+        "TotInvVal": null
+    },
+    {
+        "Filename": "Export - 3",
+        "SellerGstin": "06AACCD3848A1Z3",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "IN1DEL230009693",
+        "DocDt": "21-Feb-23",
+        "TotInvVal": 2992.5
+    },
+    {
+        "Filename": "2004687",
+        "SellerGstin": "29AAACL9861H1Z2",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "2004687",
+        "DocDt": "05-03-2018",
+        "TotInvVal": 35993.99
+    },
+    {
+        "Filename": "5200018766",
+        "SellerGstin": "09AHMPG3197P1ZI",
+        "BuyerGstin": "09AAFCA8794B1ZG",
+        "DocNo": "225",
+        "DocDt": "25-Mar-2023",
+        "TotInvVal": 5546.0
+    },
+    {
+        "Filename": "Domestic Freight - 2",
+        "SellerGstin": null,
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "NGP-0001195",
+        "DocDt": "08-04-2023",
+        "TotInvVal": 182928.0
+    },
+    {
+        "Filename": "Class II - 4",
+        "SellerGstin": "27AIVPT3472A1ZW",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "2022-2023/00315",
+        "DocDt": "3-Dec-22",
+        "TotInvVal": 2751778.29
+    },
+    {
+        "Filename": "3275056325",
+        "SellerGstin": "33AAGPT0667A1ZO",
+        "BuyerGstin": "33AAJCA1167G1ZY",
+        "DocNo": "12310052",
+        "DocDt": "27-04-2023",
+        "TotInvVal": 2653114.0
+    },
+    {
+        "Filename": "DSINV2023241760",
+        "SellerGstin": "06AAACB3719Q1ZG",
+        "BuyerGstin": "23AAJCA1167G1ZZ",
+        "DocNo": "23-24/295",
+        "DocDt": "10-May-23",
+        "TotInvVal": 1474788.0
+    },
+    {
+        "Filename": "3275056399",
+        "SellerGstin": "33AABCI2732H1ZZ",
+        "BuyerGstin": "33AAJCA1167G1ZY",
+        "DocNo": "ICBC9666",
+        "DocDt": "01-JUN-2023",
+        "TotInvVal": 44800.0
+    },
+    {
+        "Filename": "2021532",
+        "SellerGstin": null,
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "2021532",
+        "DocDt": "25/10/2017",
+        "TotInvVal": 72295.0
+    },
+    {
+        "Filename": "CMA CGM",
+        "SellerGstin": "19AABCC9048G1ZI",
+        "BuyerGstin": "19AAFCD5214M1ZG",
+        "DocNo": "INIWB055894",
+        "DocDt": "31-MAR-2023",
+        "TotInvVal": 1419.15
+    },
+    {
+        "Filename": "Raw Material - 7",
+        "SellerGstin": "09AAACP0304R1ZB",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "PFPL/0825",
+        "DocDt": "23-Feb-23",
+        "TotInvVal": 3642046.0
+    },
+    {
+        "Filename": "Import - 8",
+        "SellerGstin": "27AAICC6595K1ZZ",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "CSXNSAF2206618",
+        "DocDt": "13/10/2022",
+        "TotInvVal": 1611986.2
+    },
+    {
+        "Filename": "Domestic Freight - 10",
+        "SellerGstin": "27AAACA4457G1ZT",
+        "BuyerGstin": "03AADCO4903G1ZV",
+        "DocNo": "NAGP-061142",
+        "DocDt": "28/03/2023",
+        "TotInvVal": 104058.0
+    },
+    {
+        "Filename": "DSINV2023241706",
+        "SellerGstin": "27AABCT1029L1ZC",
+        "BuyerGstin": "19AAJCA1167G1ZO",
+        "DocNo": "2714003987",
+        "DocDt": "17.04.2023",
+        "TotInvVal": 2098788.13
+    },
+    {
+        "Filename": "Import - 6",
+        "SellerGstin": "27AAACO2356G1ZL",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "23BOMFIS0005326",
+        "DocDt": "16-Jan-23",
+        "TotInvVal": 1337047.38
+    },
+    {
+        "Filename": "Class I - 1 Samples (18)",
+        "SellerGstin": "27AAJCM4693D1Z8",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "5021371752",
+        "DocDt": "27.Mar.2021",
+        "TotInvVal": 200043.0
+    },
+    {
+        "Filename": "DSINV2023241705",
+        "SellerGstin": "27AABCT1029L1ZC",
+        "BuyerGstin": "19AAJCA1167G1ZO",
+        "DocNo": "2714004259",
+        "DocDt": "23.04.2023",
+        "TotInvVal": 2646776.58
+    },
+    {
+        "Filename": "Class I - 1 Samples (7)",
+        "SellerGstin": "27ABUPK3258M1ZW",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "13810",
+        "DocDt": "26/03/2021",
+        "TotInvVal": 1000.0
+    },
+    {
+        "Filename": "Spheres - 3",
+        "SellerGstin": null,
+        "BuyerGstin": null,
+        "DocNo": "HC0286946",
+        "DocDt": "June 20, 2022",
+        "TotInvVal": 248930.0
+    },
+    {
+        "Filename": "GW01210600790",
+        "SellerGstin": null,
+        "BuyerGstin": null,
+        "DocNo": "5090020716",
+        "DocDt": "07.06.2021",
+        "TotInvVal": null
+    },
+    {
+        "Filename": "Spheres - 6",
+        "SellerGstin": null,
+        "BuyerGstin": null,
+        "DocNo": "6423863",
+        "DocDt": "03.06.2022",
+        "TotInvVal": null
+    },
+    {
+        "Filename": "Non PO - 3",
+        "SellerGstin": "27AAOFD4605N1Z1",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "1597",
+        "DocDt": "24-03-2023",
+        "TotInvVal": 22755.0
+    },
+    {
+        "Filename": "Spheres - 8",
+        "SellerGstin": null,
+        "BuyerGstin": null,
+        "DocNo": "900 61 222",
+        "DocDt": "30.12.2021",
+        "TotInvVal": null
+    },
+    {
+        "Filename": "5788040280",
+        "SellerGstin": null,
+        "BuyerGstin": "37AAJCA1167G1ZQ",
+        "DocNo": "06/2023-24",
+        "DocDt": "04/05/2023",
+        "TotInvVal": 65000.0
+    },
+    {
+        "Filename": "Raw Material - 3",
+        "SellerGstin": "27AAACR5055K1Z7",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "27183012043076",
+        "DocDt": "28.03.2023",
+        "TotInvVal": 3379992.0
+    },
+    {
+        "Filename": "Domestic Freight - 7",
+        "SellerGstin": null,
+        "BuyerGstin": null,
+        "DocNo": "1060",
+        "DocDt": "17/03/2023",
+        "TotInvVal": 8456.0
+    },
+    {
+        "Filename": "Class VI - 6",
+        "SellerGstin": null,
+        "BuyerGstin": null,
+        "DocNo": "1522612",
+        "DocDt": "03.06.2022",
+        "TotInvVal": null
+    },
+    {
+        "Filename": "DSINV2023241709",
+        "SellerGstin": "27AABCT1029L1ZC",
+        "BuyerGstin": "19AAJCA1167G1ZO",
+        "DocNo": "2714003193",
+        "DocDt": "27.03.2023",
+        "TotInvVal": null
+    },
+    {
+        "Filename": "Prism - Credit Note",
+        "SellerGstin": null,
+        "BuyerGstin": null,
+        "DocNo": "PL/January/22-23",
+        "DocDt": "10.02.2023",
+        "TotInvVal": 500.0
+    },
+    {
+        "Filename": "Logistics - 9",
+        "SellerGstin": null,
+        "BuyerGstin": null,
+        "DocNo": "BEP0000249",
+        "DocDt": "10-03-2023",
+        "TotInvVal": 207760.0
+    },
+    {
+        "Filename": "DSINV2023241702",
+        "SellerGstin": "27AABCT1029L1ZC",
+        "BuyerGstin": "19AAJCA1167G1ZO",
+        "DocNo": "2714004617",
+        "DocDt": "30.04.2023",
+        "TotInvVal": 2155650.44
+    },
+    {
+        "Filename": "Class II - 5",
+        "SellerGstin": "27AAACR5055K1Z7",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "27183012014456",
+        "DocDt": "09.08.2022",
+        "TotInvVal": 2715364.08
+    },
+    {
+        "Filename": "5788040281",
+        "SellerGstin": "23AAGFG3565L1Z9",
+        "BuyerGstin": "23AAJCA1167G1ZZ",
+        "DocNo": "DN/23-24/75-ELE",
+        "DocDt": "01-05-2023",
+        "TotInvVal": 37067.0
+    },
+    {
+        "Filename": "Class II - 6",
+        "SellerGstin": "09AABCC8524H1ZM",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "TI-2223/05422",
+        "DocDt": "21-11-2022",
+        "TotInvVal": 3141641.0
+    },
+    {
+        "Filename": "Class I - 6",
+        "SellerGstin": "27AMOPC8607R1ZA",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "APE/0194/22-23",
+        "DocDt": "31-May-22",
+        "TotInvVal": 649.0
+    },
+    {
+        "Filename": "Class II - 9",
+        "SellerGstin": "27ACPK7657H1ZG",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "1372/22-23",
+        "DocDt": "2-Jul-22",
+        "TotInvVal": 19588.0
+    },
+    {
+        "Filename": "3275056333",
+        "SellerGstin": "33AAGPT0667A1Z0",
+        "BuyerGstin": "33AAJCA1167G1ZY",
+        "DocNo": "12310068",
+        "DocDt": "04-05-2023",
+        "TotInvVal": 38940.0
+    },
+    {
+        "Filename": "DSINV2023241744",
+        "SellerGstin": "29AADCS0406N1Z8",
+        "BuyerGstin": "29AAJCA1167G1ZN",
+        "DocNo": "F1535BIL24001833",
+        "DocDt": "12/05/23",
+        "TotInvVal": 54880.0
+    },
+    {
+        "Filename": "JF01221000475",
+        "SellerGstin": "24AADCP1453C1ZZ",
+        "BuyerGstin": null,
+        "DocNo": "85451110328",
+        "DocDt": "13.10.22",
+        "TotInvVal": 17366.54
+    },
+    {
+        "Filename": "5788040278",
+        "SellerGstin": "29AAFCD6369P2ZQ",
+        "BuyerGstin": "37AAJCA1167G1ZQ",
+        "DocNo": "DIN/23-24/DS-020",
+        "DocDt": "27-Apr-2023",
+        "TotInvVal": 961083.0
+    },
+    {
+        "Filename": "2006670",
+        "SellerGstin": "29AAACL9861H1Z2",
+        "BuyerGstin": null,
+        "DocNo": "2006670",
+        "DocDt": "27/03/2018",
+        "TotInvVal": 5385389.26
+    },
+    {
+        "Filename": "Class IV - 1",
+        "SellerGstin": "27AABCB3510E1ZB",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "GN2021-1258",
+        "DocDt": "08/01/2021",
+        "TotInvVal": 192120.0
+    },
+    {
+        "Filename": "Class I - 1 Samples (25)",
+        "SellerGstin": "24AABCE4018L1ZU",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "EP/20-21/5146",
+        "DocDt": "22-03-2021",
+        "TotInvVal": 13546.0
+    },
+    {
+        "Filename": "DSINV2023241700",
+        "SellerGstin": null,
+        "BuyerGstin": null,
+        "DocNo": "2714004688",
+        "DocDt": "01.05.2023",
+        "TotInvVal": 2064314.41
+    },
+    {
+        "Filename": "2021642",
+        "SellerGstin": "29AAACL9861H1Z2",
+        "BuyerGstin": "29AAACL9851H1Z2",
+        "DocNo": "2021642",
+        "DocDt": "25/10/2017",
+        "TotInvVal": 335992.0
+    },
+    {
+        "Filename": "Class II - 1",
+        "SellerGstin": "24AAACV5048G1ZH",
+        "BuyerGstin": "27AAGCI2068F1ZM",
+        "DocNo": "SAV/2223/1829",
+        "DocDt": "09/12/2022",
+        "TotInvVal": 188800.0
+    },
+    {
+        "Filename": "DSINV2023241712",
+        "SellerGstin": "09AAACR9626A1ZH",
+        "BuyerGstin": "09AAKCM0652P1ZX",
+        "DocNo": "1500012989",
+        "DocDt": "09.03.2022",
+        "TotInvVal": 121219.0
+    },
+    {
+        "Filename": "3275056415",
+        "SellerGstin": "33AGAPB9665J1ZD",
+        "BuyerGstin": "33AAJCA1167G1ZY",
+        "DocNo": "ABC/0364/23 - 24",
+        "DocDt": "22-Jun-23",
+        "TotInvVal": 51330.0
+    },
+    {
+        "Filename": "Class VI - 8",
+        "SellerGstin": null,
+        "BuyerGstin": null,
+        "DocNo": "900 61 222",
+        "DocDt": "30.12.2021",
+        "TotInvVal": null
+    },
+    {
+        "Filename": "Import - 2",
+        "SellerGstin": "27AAICC8838P1ZR",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "COGO/2223/65205",
+        "DocDt": "2022-12-28",
+        "TotInvVal": 1472427.6
+    },
+    {
+        "Filename": "Domestic Freight - 3",
+        "SellerGstin": "27AAACI5607C1ZZ",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "INNAG2203186",
+        "DocDt": "22 Mar 23",
+        "TotInvVal": 57702.0
+    },
+    {
+        "Filename": "Class VI - 2",
+        "SellerGstin": null,
+        "BuyerGstin": null,
+        "DocNo": "2R04098C",
+        "DocDt": "19.04.2022",
+        "TotInvVal": null
+    },
+    {
+        "Filename": "4811127919",
+        "SellerGstin": "29ATQPD9000J1ZG",
+        "BuyerGstin": "29AAJCA1167G1ZN",
+        "DocNo": "VD/23-24/084",
+        "DocDt": "6-May-23",
+        "TotInvVal": 327840.24
+    },
+    {
+        "Filename": "DSINV2023241707",
+        "SellerGstin": "27AABCT1029L1ZC",
+        "BuyerGstin": "19AAJCA1167G1ZO",
+        "DocNo": "2714003458",
+        "DocDt": "02.04.2023",
+        "TotInvVal": 2041790.1
+    },
+    {
+        "Filename": "Spheres - 10",
+        "SellerGstin": null,
+        "BuyerGstin": null,
+        "DocNo": "30811571",
+        "DocDt": "08.07.2021",
+        "TotInvVal": null
+    },
+    {
+        "Filename": "2013829",
+        "SellerGstin": "29AAACL9861H1Z2",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "2013829",
+        "DocDt": "06/08/2020",
+        "TotInvVal": 1861885.0
+    },
+    {
+        "Filename": "Spheres - 5",
+        "SellerGstin": null,
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "210356-410",
+        "DocDt": "09.03.2022",
+        "TotInvVal": 47560.48
+    },
+    {
+        "Filename": "2005011",
+        "SellerGstin": "29AAACL9881H1Z2",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "2005011",
+        "DocDt": "07/03/2018",
+        "TotInvVal": 4329850.0
+    },
+    {
+        "Filename": "DSINV2023241698",
+        "SellerGstin": null,
+        "BuyerGstin": null,
+        "DocNo": "2714004900",
+        "DocDt": "07.05.2023",
+        "TotInvVal": 2064314.41
+    },
+    {
+        "Filename": "Raw Material - 6",
+        "SellerGstin": "27AAJCP0613L2ZB",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "GHUSL0200199",
+        "DocDt": "28-Feb-23",
+        "TotInvVal": 271796.0
+    },
+    {
+        "Filename": "Domestic Freight - 5",
+        "SellerGstin": "27ABWFS9198N2ZL",
+        "BuyerGstin": null,
+        "DocNo": "5019",
+        "DocDt": "24-12-22",
+        "TotInvVal": 16000.0
+    },
+    {
+        "Filename": "4811318932",
+        "SellerGstin": "07AAACD3254A2ZA",
+        "BuyerGstin": "07AAJCA1167G1ZT",
+        "DocNo": "ZE3010000395",
+        "DocDt": "01/05/2023",
+        "TotInvVal": 2211717.0
+    },
+    {
+        "Filename": "CCI Logistics LImited",
+        "SellerGstin": "07ACCC5289J1ZC",
+        "BuyerGstin": "06AAFCD5214M1ZN",
+        "DocNo": "BLDLA12200466",
+        "DocDt": "18.03.2023",
+        "TotInvVal": 156480.0
+    },
+    {
+        "Filename": "3275056328",
+        "SellerGstin": "33AAECP1680N1Z7",
+        "BuyerGstin": "33AAJCA1167G1ZY",
+        "DocNo": "0124/GST/2023-24",
+        "DocDt": "28-Apr-2023",
+        "TotInvVal": 19824.0
+    },
+    {
+        "Filename": "Logistics - 3",
+        "SellerGstin": "27AAACC1205A1ZN",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "IMH0PCPKI0071250",
+        "DocDt": "25-03-2023",
+        "TotInvVal": 17700.0
+    },
+    {
+        "Filename": "3275056405",
+        "SellerGstin": "33AAICN4981E1ZE",
+        "BuyerGstin": "33AAJCA1167G1ZY",
+        "DocNo": "NTIPL/23-24/0063",
+        "DocDt": "30-May-23",
+        "TotInvVal": 22388.14
+    },
+    {
+        "Filename": "DSINV2023241713",
+        "SellerGstin": null,
+        "BuyerGstin": null,
+        "DocNo": "1500012969",
+        "DocDt": null,
+        "TotInvVal": 15801.5
+    },
+    {
+        "Filename": "Shree Adinath Overseas",
+        "SellerGstin": "06AFFPJ7436M1Z4",
+        "BuyerGstin": "06AAFCD5214M1ZN",
+        "DocNo": "SAO/22-23/2424",
+        "DocDt": "24-Mar-23",
+        "TotInvVal": 592288.0
+    },
+    {
+        "Filename": "Export Inspection Agency",
+        "SellerGstin": "07AAAGE0059E1ZX",
+        "BuyerGstin": "06AAFCD5214M1ZN",
+        "DocNo": "EIAD202301003916",
+        "DocDt": "12-01-2023",
+        "TotInvVal": 736.0
+    },
+    {
+        "Filename": "DSINV2023241701",
+        "SellerGstin": "27AABCT1029L1ZC",
+        "BuyerGstin": "19AAJCA1167G1ZO",
+        "DocNo": "2714004687",
+        "DocDt": "01.05.2023",
+        "TotInvVal": 2216782.44
+    },
+    {
+        "Filename": "Class II - 8",
+        "SellerGstin": "19AAEF06235H1Z4",
+        "BuyerGstin": "06AAFCD5214M1ZM",
+        "DocNo": "017779",
+        "DocDt": "31/08/22",
+        "TotInvVal": 3895947.0
+    },
+    {
+        "Filename": "DSINV2023241730",
+        "SellerGstin": "27AAACS5304A1ZZ",
+        "BuyerGstin": "33AAJCA1167G1ZY",
+        "DocNo": "548",
+        "DocDt": "16/05/2023",
+        "TotInvVal": 51259.0
+    },
+    {
+        "Filename": "DSINV2023241715",
+        "SellerGstin": "33AAECV0280C1ZU",
+        "BuyerGstin": "33AAJCA1167G1ZY",
+        "DocNo": "12/CR 23-24",
+        "DocDt": "16-May-23",
+        "TotInvVal": 4567.0
+    },
+    {
+        "Filename": "3275056329",
+        "SellerGstin": "33AAECP1680N1Z7",
+        "BuyerGstin": "33AAJCA1167G1ZY",
+        "DocNo": "0123/GST/2023-24",
+        "DocDt": "28-Apr-2023",
+        "TotInvVal": 36816.0
+    },
+    {
+        "Filename": "Class VI - 1",
+        "SellerGstin": null,
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "PSF/IN/9/IV/50(2)",
+        "DocDt": "June 16, 2021",
+        "TotInvVal": 38950.0
+    },
+    {
+        "Filename": "2004143",
+        "SellerGstin": "29AAACL9861H1Z2",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "2004143",
+        "DocDt": "12/02/2020",
+        "TotInvVal": 3935525.89
+    },
+    {
+        "Filename": "3275056397",
+        "SellerGstin": "33AABCI2732H1ZZ",
+        "BuyerGstin": "33AAJCA1167G1ZY",
+        "DocNo": "ICBC9985",
+        "DocDt": "05-JUN-2023",
+        "TotInvVal": 47040.0
+    },
+    {
+        "Filename": "GW01210600722",
+        "SellerGstin": "24AAACH3583Q1Z6",
+        "BuyerGstin": "24AACL6442L1ZG",
+        "DocNo": "IV24-1854-2021",
+        "DocDt": "25 May 2021",
+        "TotInvVal": 351657.12
+    },
+    {
+        "Filename": "Class I - 1 Samples (30)",
+        "SellerGstin": "27AQFPP7900B1Z1",
+        "BuyerGstin": "27AAHAC51530L2ZQ",
+        "DocNo": "1300",
+        "DocDt": "11/4/21",
+        "TotInvVal": 12234.6
+    },
+    {
+        "Filename": "2002023",
+        "SellerGstin": "29AAACL9861H1Z2",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "MB/L-CMB 021534",
+        "DocDt": "17/01/2018",
+        "TotInvVal": 4935480.6
+    },
+    {
+        "Filename": "Shipping - 3",
+        "SellerGstin": "27AAJCM4693D1Z8",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "5204928785",
+        "DocDt": "14.Apr.2023",
+        "TotInvVal": 112056.82
+    },
+    {
+        "Filename": "3275056409",
+        "SellerGstin": "33AGAPB9665J1ZD",
+        "BuyerGstin": "33AAJCA1167G1ZY",
+        "DocNo": "ABC/0339/23 - 24",
+        "DocDt": "15-Jun-23",
+        "TotInvVal": 22848.0
+    },
+    {
+        "Filename": "Export - 4",
+        "SellerGstin": "27AABCV7123P1ZV",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "MH/02/2223/05085",
+        "DocDt": "11/07/2022",
+        "TotInvVal": 149771.0
+    },
+    {
+        "Filename": "Class I - 2",
+        "SellerGstin": "27AADCA7072Q1Z4",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "65/22-23",
+        "DocDt": "1-Jul-22",
+        "TotInvVal": 67770.0
+    },
+    {
+        "Filename": "3275056407",
+        "SellerGstin": "33AGAPB9665J1ZD",
+        "BuyerGstin": "33AAJCA1167G1ZY",
+        "DocNo": "ABC/0338/23-24",
+        "DocDt": "15-Jun-23",
+        "TotInvVal": 22848.0
+    },
+    {
+        "Filename": "Domestic Freight - 9",
+        "SellerGstin": null,
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "701/2223/02923",
+        "DocDt": "25 Mar 2023",
+        "TotInvVal": 117000.0
+    },
+    {
+        "Filename": "5788040283",
+        "SellerGstin": "23AAGFG3565L1Z9",
+        "BuyerGstin": "23AAJCA1167G1ZZ",
+        "DocNo": "GP/23-24/94-CAM",
+        "DocDt": "01-05-2023",
+        "TotInvVal": 42839.0
+    },
+    {
+        "Filename": "2022399",
+        "SellerGstin": "29AAACL9861H1Z2",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "2022399",
+        "DocDt": "03/11/2017",
+        "TotInvVal": 12389333.97
+    },
+    {
+        "Filename": "Class VII - 1",
+        "SellerGstin": "27AAUFP9347B1ZR",
+        "BuyerGstin": "27AAACZ1530L1ZQ",
+        "DocNo": "273",
+        "DocDt": "01/01/23",
+        "TotInvVal": 12720.0
+    },
+    {
+        "Filename": "2004526",
+        "SellerGstin": "29AAACL9861H1Z2",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "2004526",
+        "DocDt": "01/03/2018",
+        "TotInvVal": 6208755.0
+    },
+    {
+        "Filename": "4811127916",
+        "SellerGstin": "29AACCB1178M1ZD",
+        "BuyerGstin": "29AAJCA1167G1ZN",
+        "DocNo": "10000908/2023",
+        "DocDt": "01-May-23",
+        "TotInvVal": 476401.0
+    },
+    {
+        "Filename": "2021846",
+        "SellerGstin": "29AAACL9861H1Z2",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "2021846",
+        "DocDt": "17/09/2021",
+        "TotInvVal": 6531056.0
+    },
+    {
+        "Filename": "Spheres - 7",
+        "SellerGstin": null,
+        "BuyerGstin": null,
+        "DocNo": "PI-2021-207",
+        "DocDt": "30.09.2021",
+        "TotInvVal": null
+    },
+    {
+        "Filename": "3275056417",
+        "SellerGstin": "33AGAPB9665J1ZD",
+        "BuyerGstin": "33AAJCA1167G1ZY",
+        "DocNo": "ABC/0369/23 - 24",
+        "DocDt": "22-Jun-23",
+        "TotInvVal": 10160.0
+    },
+    {
+        "Filename": "3275056413",
+        "SellerGstin": "33AGAPB9665J1ZD",
+        "BuyerGstin": "33AAJCA1167G1ZY",
+        "DocNo": "ABC/0366/23 - 24",
+        "DocDt": "22-Jun-23",
+        "TotInvVal": 32745.0
+    },
+    {
+        "Filename": "Dogra Taxi Services",
+        "SellerGstin": null,
+        "BuyerGstin": null,
+        "DocNo": "1089",
+        "DocDt": "31/03/2023",
+        "TotInvVal": 3625.0
+    },
+    {
+        "Filename": "Export - 2",
+        "SellerGstin": "27AAECT5817B1ZI",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "TKV/22-23/2988",
+        "DocDt": "2-Mar-23",
+        "TotInvVal": 46020.0
+    },
+    {
+        "Filename": "Logistics - 5",
+        "SellerGstin": "24ADIFS9230K1ZR",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "7240/22",
+        "DocDt": "31/03/2023",
+        "TotInvVal": 117089.0
+    },
+    {
+        "Filename": "3275056331",
+        "SellerGstin": "33AABCI2732H1ZZ",
+        "BuyerGstin": "33AAJCA1167G1ZY",
+        "DocNo": "ICBC6786",
+        "DocDt": "26-APR-2023",
+        "TotInvVal": 49952.0
+    },
+    {
+        "Filename": "Class V - 1",
+        "SellerGstin": "27AACCM4945P1ZV",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "MH04EMI066001220",
+        "DocDt": "09-MAR-2021",
+        "TotInvVal": 472.0
+    },
+    {
+        "Filename": "Class VI - 3",
+        "SellerGstin": null,
+        "BuyerGstin": null,
+        "DocNo": "HC0286946",
+        "DocDt": "June 20, 2022",
+        "TotInvVal": null
+    },
+    {
+        "Filename": "Class I - 1 Samples (9)",
+        "SellerGstin": null,
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "0000011916",
+        "DocDt": "31-03-2021",
+        "TotInvVal": 424928.0
+    },
+    {
+        "Filename": "Kahan Marketing",
+        "SellerGstin": "06ADKPT8704D1ZF",
+        "BuyerGstin": "06AAFCD5214M1ZN",
+        "DocNo": "KM/2828",
+        "DocDt": "22-Mar-23",
+        "TotInvVal": 1147.0
+    },
+    {
+        "Filename": "DSINV2023241697",
+        "SellerGstin": "27AABCT1029L1ZC",
+        "BuyerGstin": "19AAJCA1167G1ZO",
+        "DocNo": "2714004902",
+        "DocDt": "07.05.2023",
+        "TotInvVal": 2127699.99
+    },
+    {
+        "Filename": "DSINV2023241748",
+        "SellerGstin": "29AADCS0406N1Z8",
+        "BuyerGstin": "29AAJCA1167G1ZN",
+        "DocNo": "F1535BIL24001921",
+        "DocDt": "14/05/23",
+        "TotInvVal": 54880.0
+    },
+    {
+        "Filename": "Raw Material - 4",
+        "SellerGstin": "27AAACW1578L1ZW",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "9250022694",
+        "DocDt": "Apr 9, 2023",
+        "TotInvVal": null
+    },
+    {
+        "Filename": "4811127918",
+        "SellerGstin": "29AAECM3446P1ZV",
+        "BuyerGstin": null,
+        "DocNo": "VSN/2023-24/01",
+        "DocDt": "04/05/2023",
+        "TotInvVal": 3095673.32
+    },
+    {
+        "Filename": "Raw Material - 9",
+        "SellerGstin": "08AAACP1125E1ZZ",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "2310203",
+        "DocDt": "04-MAR-23",
+        "TotInvVal": 3026700.0
+    },
+    {
+        "Filename": "2013539",
+        "SellerGstin": "29AAACL9861H1Z2",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "2013539",
+        "DocDt": "10/06/2022",
+        "TotInvVal": 314924.0
+    },
+    {
+        "Filename": "Domestic Freight - 8",
+        "SellerGstin": null,
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "08/2023",
+        "DocDt": "08/04/2023",
+        "TotInvVal": 47767.0
+    },
+    {
+        "Filename": "2005010",
+        "SellerGstin": "29AAACL9861H1Z2",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "2005010",
+        "DocDt": "07/03/2018",
+        "TotInvVal": 16256183.23
+    },
+    {
+        "Filename": "2002115",
+        "SellerGstin": "29AAACL9861H1Z2",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "2002115",
+        "DocDt": "31/01/2018",
+        "TotInvVal": 18269561.13
+    },
+    {
+        "Filename": "Class I - 4",
+        "SellerGstin": "27AACCH4833P1Z5",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "005391",
+        "DocDt": "12/03/2021",
+        "TotInvVal": 381548.56
+    },
+    {
+        "Filename": "5200018767",
+        "SellerGstin": "09AHMPG3197P1ZI",
+        "BuyerGstin": "09AAFCA8794B1ZG",
+        "DocNo": "194",
+        "DocDt": "3-Mar-2023",
+        "TotInvVal": 3210.0
+    },
+    {
+        "Filename": "Hira Travels",
+        "SellerGstin": "07AACPH6875J1ZE",
+        "BuyerGstin": "06AAFCD5214M1ZN",
+        "DocNo": "6380",
+        "DocDt": "05/04/23",
+        "TotInvVal": 8070.0
+    },
+    {
+        "Filename": "2006290",
+        "SellerGstin": "29AAACL9861H1ZZ",
+        "BuyerGstin": null,
+        "DocNo": "10037",
+        "DocDt": "21-03-2018",
+        "TotInvVal": 98486.83
+    },
+    {
+        "Filename": "Class I - 1 Samples (26)",
+        "SellerGstin": "05AAFCP1505P1ZD",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "BLHQTR2021020684",
+        "DocDt": "20 Mar 2021",
+        "TotInvVal": 65101.12
+    },
+    {
+        "Filename": "3275056406",
+        "SellerGstin": "33AABCI2732H1ZZ",
+        "BuyerGstin": "33AAJCA1167G1ZY",
+        "DocNo": "ICBC10271",
+        "DocDt": "09-JUN-2023",
+        "TotInvVal": 43904.0
+    },
+    {
+        "Filename": "Class I - 9",
+        "SellerGstin": null,
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "0000011916",
+        "DocDt": "31-03-2021",
+        "TotInvVal": 424928.0
+    },
+    {
+        "Filename": "2013388",
+        "SellerGstin": "29AAACL9861H1Z2",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "2013388",
+        "DocDt": "15/06/2019",
+        "TotInvVal": 5118205.0
+    },
+    {
+        "Filename": "DSINV2023241747",
+        "SellerGstin": "29AADCS0406N1Z8",
+        "BuyerGstin": "29AAJCA1167G1ZN",
+        "DocNo": "F1535BIL24001919",
+        "DocDt": "14/05/23",
+        "TotInvVal": 54880.0
+    },
+    {
+        "Filename": "DSINV2023241745",
+        "SellerGstin": "29AADCS0406N1Z8",
+        "BuyerGstin": "29AAJCA1167G1ZN",
+        "DocNo": "F1535BIL24001900",
+        "DocDt": "13/05/23",
+        "TotInvVal": null
+    },
+    {
+        "Filename": "4811127921",
+        "SellerGstin": "29ATQPD9000J1ZG",
+        "BuyerGstin": "29AAJCA1167G1ZN",
+        "DocNo": "VD/23-24/086",
+        "DocDt": "6-May-23",
+        "TotInvVal": 133580.16
+    },
+    {
+        "Filename": "4811127917",
+        "SellerGstin": "29AACCB1178M1ZD",
+        "BuyerGstin": "29AAJCA1167G1ZN",
+        "DocNo": "10000841/2023",
+        "DocDt": "01-May-23",
+        "TotInvVal": 5634777.0
+    },
+    {
+        "Filename": "Import - 7",
+        "SellerGstin": "27AAJCM4693D1Z8",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "5123279475",
+        "DocDt": "02.Oct.2022",
+        "TotInvVal": 120539.36
+    },
+    {
+        "Filename": "DSINV2023241710",
+        "SellerGstin": "27AABCT1029L1ZC",
+        "BuyerGstin": "19AAJCA1167G1ZO",
+        "DocNo": "2714004898",
+        "DocDt": "07.05.2023",
+        "TotInvVal": 2250300.01
+    },
+    {
+        "Filename": "DSINV2023241703",
+        "SellerGstin": null,
+        "BuyerGstin": null,
+        "DocNo": "2714004560",
+        "DocDt": "29.04.2023",
+        "TotInvVal": 2155650.44
+    },
+    {
+        "Filename": "4811318928",
+        "SellerGstin": "27DMKPK5968Q1ZV",
+        "BuyerGstin": "27AAJCA1167G1ZR",
+        "DocNo": "SER/2023-24/0002",
+        "DocDt": "18-04-2023",
+        "TotInvVal": 195752.0
+    },
+    {
+        "Filename": "2004981",
+        "SellerGstin": "29AAACL9861H1Z2",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "2004981",
+        "DocDt": "07/03/2018",
+        "TotInvVal": 35723.61
+    },
+    {
+        "Filename": "Class V - 4",
+        "SellerGstin": "27AABCA5413B1ZC",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "184",
+        "DocDt": "07/10/2022",
+        "TotInvVal": 140231.0
+    },
+    {
+        "Filename": "DSINV2023241699",
+        "SellerGstin": "27AABCT1029L1ZC",
+        "BuyerGstin": "19AAJCA1167G1ZO",
+        "DocNo": "2714004689",
+        "DocDt": "01.05.2023",
+        "TotInvVal": 2064314.41
+    },
+    {
+        "Filename": "Import - 5",
+        "SellerGstin": "27AAFTC3062P1ZV",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "TPLMUM:IMP221940",
+        "DocDt": "02/11/2022",
+        "TotInvVal": 1901723.4
+    },
+    {
+        "Filename": "Domestic Freight - 1",
+        "SellerGstin": "27AAJCA9235H2ZF",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "NGP/22-23/03804",
+        "DocDt": "20/03/2023",
+        "TotInvVal": 10000.0
+    },
+    {
+        "Filename": "2013405",
+        "SellerGstin": "29AAACL9861H1Z2",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "2013405",
+        "DocDt": "30/07/2020",
+        "TotInvVal": null
+    },
+    {
+        "Filename": "Class VI - 7",
+        "SellerGstin": null,
+        "BuyerGstin": null,
+        "DocNo": "CI-2021-207",
+        "DocDt": "30.09.2021",
+        "TotInvVal": null
+    },
+    {
+        "Filename": "Class IV - 2",
+        "SellerGstin": "27AAACH0979G1ZJ",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "MH10631211",
+        "DocDt": "FEB. 15, 2021",
+        "TotInvVal": 148615.11
+    },
+    {
+        "Filename": "2013508",
+        "SellerGstin": "29AAACL9861H1Z2",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "2013508",
+        "DocDt": "31/07/2020",
+        "TotInvVal": null
+    },
+    {
+        "Filename": "JF01221100743",
+        "SellerGstin": "24AADCP1453C1ZZ",
+        "BuyerGstin": null,
+        "DocNo": "85451110328",
+        "DocDt": "18.11.22",
+        "TotInvVal": 40089.32
+    },
+    {
+        "Filename": "Logistics - 1",
+        "SellerGstin": "27AAEPB7960N4Z9",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "2308TB/965",
+        "DocDt": "31/03/2023",
+        "TotInvVal": 90000.0
+    },
+    {
+        "Filename": "Store - 5",
+        "SellerGstin": "27AAHCD0285G",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "22-23/0471",
+        "DocDt": "22/03/2023",
+        "TotInvVal": 35400.0
+    },
+    {
+        "Filename": "Import - 4",
+        "SellerGstin": "27AABCL4792N1ZW",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "BOM212201663",
+        "DocDt": "20-Sep-21",
+        "TotInvVal": 8555.0
+    },
+    {
+        "Filename": "2002374",
+        "SellerGstin": "29AAACL9861H1Z2",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "1001081",
+        "DocDt": "24-01-2018",
+        "TotInvVal": 92734.98
+    },
+    {
+        "Filename": "5788040276",
+        "SellerGstin": "29AAFCD6369P2ZQ",
+        "BuyerGstin": "37AAJCA1167G1ZQ",
+        "DocNo": "DIN/22-23/SER013",
+        "DocDt": "03.February.2023",
+        "TotInvVal": 137894.8
+    },
+    {
+        "Filename": "Export - 5",
+        "SellerGstin": "27AAACD2086J2ZL",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "DI3627005827",
+        "DocDt": "21.09.2022",
+        "TotInvVal": 134062.0
+    },
+    {
+        "Filename": "Cosmo Carrying Pvt- Ltd-",
+        "SellerGstin": "37AAACC8374N2Z2",
+        "BuyerGstin": "19AAFCD5214M1ZG",
+        "DocNo": "1012223016072",
+        "DocDt": "20-03-23",
+        "TotInvVal": 16928.0
+    },
+    {
+        "Filename": "2004812",
+        "SellerGstin": "29AAACL9861H1Z2",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "1002884",
+        "DocDt": "03-03-2018",
+        "TotInvVal": 1484187.28
+    },
+    {
+        "Filename": "Class I - 1 Samples (24)",
+        "SellerGstin": "27AACCM4945P1ZV",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "MH04EMI066001220",
+        "DocDt": "09-MAR-2021",
+        "TotInvVal": 472.0
+    },
+    {
+        "Filename": "One Drive Logistics Solutions",
+        "SellerGstin": "19AAEFO6235H1Z4",
+        "BuyerGstin": "19AAFCD5214M1ZG",
+        "DocNo": "033-2223-0327",
+        "DocDt": "22/03/2023",
+        "TotInvVal": 97773.0
+    },
+    {
+        "Filename": "Class II - 7",
+        "SellerGstin": "27AACCM4945P1ZV",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "MH04EMI032970522",
+        "DocDt": "08-AUG-2022",
+        "TotInvVal": 3894.0
+    },
+    {
+        "Filename": "2002360",
+        "SellerGstin": "29AAAACL9861H1Z2",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "MB/L-18010130",
+        "DocDt": "05-02-2018",
+        "TotInvVal": 321422.85
+    },
+    {
+        "Filename": "Associated Services",
+        "SellerGstin": null,
+        "BuyerGstin": null,
+        "DocNo": "IVLDPIL-33/April/2023",
+        "DocDt": "01.04.2023",
+        "TotInvVal": 11000.0
+    },
+    {
+        "Filename": "Digicom Comp",
+        "SellerGstin": "07AFGPT3561E1ZE",
+        "BuyerGstin": "06AAFCD5214M1ZN",
+        "DocNo": "375",
+        "DocDt": "29-Mar-2023",
+        "TotInvVal": 1180.0
+    },
+    {
+        "Filename": "Class I - 10",
+        "SellerGstin": "27AABPK8107H1ZU",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "SAL/002797",
+        "DocDt": "28/07/2022",
+        "TotInvVal": 17700.0
+    },
+    {
+        "Filename": "Class III - 1",
+        "SellerGstin": "06AAACI1681G3ZR",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "20210031B012336",
+        "DocDt": "27-Jan-21",
+        "TotInvVal": 91134.9
+    },
+    {
+        "Filename": "Class VII - 5",
+        "SellerGstin": null,
+        "BuyerGstin": null,
+        "DocNo": "9",
+        "DocDt": "05.09.2022",
+        "TotInvVal": null
+    },
+    {
+        "Filename": "Spheres - 2",
+        "SellerGstin": null,
+        "BuyerGstin": null,
+        "DocNo": "2R04098C",
+        "DocDt": "19.04.2022",
+        "TotInvVal": 8710.0
+    },
+    {
+        "Filename": "4811318936",
+        "SellerGstin": "19DQBPS1537L1ZE",
+        "BuyerGstin": "19AAJCA1167G1ZO",
+        "DocNo": "ATIL/09/2023-24",
+        "DocDt": "30-APR-2023",
+        "TotInvVal": 10407.6
+    },
+    {
+        "Filename": "Import - 10",
+        "SellerGstin": "27AACCA2894D1ZS",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "MUMOTI220045715",
+        "DocDt": "29.09.2022",
+        "TotInvVal": null
+    },
+    {
+        "Filename": "Logistics - 4",
+        "SellerGstin": null,
+        "BuyerGstin": "27AACI1530L1ZQ",
+        "DocNo": "0000014598",
+        "DocDt": "31-03-2023",
+        "TotInvVal": 103488.0
+    },
+    {
+        "Filename": "GW01210600823",
+        "SellerGstin": "24AAAFI5862L1Z7",
+        "BuyerGstin": "24AAACL6442L1ZG",
+        "DocNo": "EMJ/223/21-22",
+        "DocDt": "7-Jun-2021",
+        "TotInvVal": 38000.0
+    },
+    {
+        "Filename": "Class I - 1 Samples (17)",
+        "SellerGstin": "27AABFO8697A1Z2",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "8853",
+        "DocDt": "24-Nov-22",
+        "TotInvVal": 756047.0
+    },
+    {
+        "Filename": "3275056411",
+        "SellerGstin": "33AGAPB9665J1ZD",
+        "BuyerGstin": "33AAJCA1167G1ZY",
+        "DocNo": "ABC/0371/23 - 24",
+        "DocDt": "22-Jun-23",
+        "TotInvVal": 22848.0
+    },
+    {
+        "Filename": "B K Transport",
+        "SellerGstin": "19AAFC D5214 M1ZT",
+        "BuyerGstin": null,
+        "DocNo": "3915",
+        "DocDt": "01/04/23",
+        "TotInvVal": 69618.13
+    },
+    {
+        "Filename": "Store - 7",
+        "SellerGstin": "27AAACE3923D1Z2",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "ESPL/22-23/579",
+        "DocDt": "25-Feb-23",
+        "TotInvVal": 182664.0
+    },
+    {
+        "Filename": "Class I - 8",
+        "SellerGstin": "27A AUPA9151C1ZP",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "10846/2223",
+        "DocDt": "1-Aug-22",
+        "TotInvVal": 13924.0
+    },
+    {
+        "Filename": "Shipping - 6",
+        "SellerGstin": "27AAACK2676H1ZG",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "BOM1213757",
+        "DocDt": "10.11.2022",
+        "TotInvVal": 103826.85
+    },
+    {
+        "Filename": "Class I - 1 Samples (19)",
+        "SellerGstin": "26AAIFA2434N1ZD",
+        "BuyerGstin": "27AAAC11530L1ZQ",
+        "DocNo": "CT2100018",
+        "DocDt": "10/04/2021",
+        "TotInvVal": 51900.0
+    },
+    {
+        "Filename": "Class IV - 3",
+        "SellerGstin": null,
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "NGP-0000739",
+        "DocDt": "08/03/2021",
+        "TotInvVal": 66091.0
+    },
+    {
+        "Filename": "Spheres - 1",
+        "SellerGstin": null,
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "PSF/IN/9/IV/50(2)",
+        "DocDt": "June 16, 2021",
+        "TotInvVal": null
+    },
+    {
+        "Filename": "Jain Industrial Corporation",
+        "SellerGstin": "07AFGPJ7740BIZP",
+        "BuyerGstin": "06AAFCB5214M1ZN",
+        "DocNo": "884",
+        "DocDt": "28/2/23",
+        "TotInvVal": 116348.0
+    },
+    {
+        "Filename": "2005113",
+        "SellerGstin": "29AAACL9861H1Z2",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "2005113",
+        "DocDt": "09/03/2018",
+        "TotInvVal": 118735.83
+    },
+    {
+        "Filename": "DSINV2023241743",
+        "SellerGstin": "29AADCS0406N1Z8",
+        "BuyerGstin": "29AAJCA1167G1ZN",
+        "DocNo": "F1535BIL24001804",
+        "DocDt": "12/05/23",
+        "TotInvVal": 47040.0
+    },
+    {
+        "Filename": "2022230",
+        "SellerGstin": "29AAACL9861H1Z2",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": null,
+        "DocDt": "01/11/2017",
+        "TotInvVal": 430473.65
+    },
+    {
+        "Filename": "3275056402",
+        "SellerGstin": "24AAACZ2958F1ZA",
+        "BuyerGstin": "33AAJCA1167G1ZY",
+        "DocNo": "00165",
+        "DocDt": "09.06.2023",
+        "TotInvVal": 52733.73
+    },
+    {
+        "Filename": "Class VII - 3",
+        "SellerGstin": "27AQFPP7900B1Z1",
+        "BuyerGstin": "27AAHAC51530L2ZQ",
+        "DocNo": "1300",
+        "DocDt": "1/4/21",
+        "TotInvVal": 0.0
+    },
+    {
+        "Filename": "JF01220700685",
+        "SellerGstin": "24AADCP1453C1ZZ",
+        "BuyerGstin": null,
+        "DocNo": "5/0057",
+        "DocDt": "18-07-2022",
+        "TotInvVal": 19977.88
+    },
+    {
+        "Filename": "Logistics - 8",
+        "SellerGstin": "27AAIFJ9720G1Z6",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "JRL0000211",
+        "DocDt": "28-02-2023",
+        "TotInvVal": 533036.0
+    },
+    {
+        "Filename": "2021988",
+        "SellerGstin": "AAACL9861H1ZG",
+        "BuyerGstin": "03AAACL9861H1ZG",
+        "DocNo": "2021988",
+        "DocDt": "20/09/2021",
+        "TotInvVal": 2219082.0
+    },
+    {
+        "Filename": "2006697",
+        "SellerGstin": "29AAACL9861H1ZZ",
+        "BuyerGstin": "29AAACL9861H1ZZ",
+        "DocNo": "2006697",
+        "DocDt": "28/03/2018",
+        "TotInvVal": 11227333.2
+    },
+    {
+        "Filename": "Class VII - 4",
+        "SellerGstin": null,
+        "BuyerGstin": null,
+        "DocNo": "07",
+        "DocDt": "01-08-2022",
+        "TotInvVal": 17018.0
+    },
+    {
+        "Filename": "Class I - 1 Samples (13)",
+        "SellerGstin": "27AIVPT3472A1ZW",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "2022-2023/00315",
+        "DocDt": "3-Dec-22",
+        "TotInvVal": 236000.0
+    },
+    {
+        "Filename": "Store - 3",
+        "SellerGstin": "27AAKFA5633M1Z4",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "2201211",
+        "DocDt": "16-03-2023",
+        "TotInvVal": 5900.0
+    },
+    {
+        "Filename": "Logistics - 2",
+        "SellerGstin": "27AABCV7123P1ZV",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "MH/02/2324/00376",
+        "DocDt": "11/04/2023",
+        "TotInvVal": 93639.0
+    },
+    {
+        "Filename": "Class V - 3",
+        "SellerGstin": "05AAFCP1505P1ZD",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "BLHQTR2021020684",
+        "DocDt": "20 Mar 2021",
+        "TotInvVal": 65101.12
+    },
+    {
+        "Filename": "Class II - 10",
+        "SellerGstin": "27AAJCP0613L2ZB",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "GONSL080047",
+        "DocDt": "14-Aug-22",
+        "TotInvVal": 340575.0
+    },
+    {
+        "Filename": "Class I - 1 Samples (3)",
+        "SellerGstin": "27AAACG9031C1ZZ",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "414",
+        "DocDt": "28/02/2021",
+        "TotInvVal": 101578.0
+    },
+    {
+        "Filename": "2003775",
+        "SellerGstin": "29AAACL9861H1Z2",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "2003775",
+        "DocDt": "20/02/2018",
+        "TotInvVal": 8250754.2
+    },
+    {
+        "Filename": "Shreya Ent - Credit Note",
+        "SellerGstin": "19ADDFS5517J1ZR",
+        "BuyerGstin": "19AAFCD5214M1ZG",
+        "DocNo": "SC/2022-23/010",
+        "DocDt": "06.04.2023",
+        "TotInvVal": 1250.0
+    },
+    {
+        "Filename": "DSINV2023241716",
+        "SellerGstin": "36AABCT3169K1Z2",
+        "BuyerGstin": "33AAJCA1167G1ZY",
+        "DocNo": "1000016374",
+        "DocDt": "11.05.2023",
+        "TotInvVal": 973722.0
+    },
+    {
+        "Filename": "2002315",
+        "SellerGstin": "29AAACL9861H1Z2",
+        "BuyerGstin": null,
+        "DocNo": "10011",
+        "DocDt": "24-01-2018",
+        "TotInvVal": 127013.46
+    },
+    {
+        "Filename": "Import - 1",
+        "SellerGstin": "27AABCC9048G1ZL",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "INIMH389173",
+        "DocDt": "26-DEC-2022",
+        "TotInvVal": 42362.0
+    },
+    {
+        "Filename": "Class IV - 4",
+        "SellerGstin": null,
+        "BuyerGstin": "27AABCV7123P1ZV",
+        "DocNo": "MH/2021/CN/03045",
+        "DocDt": "21-Mar-2021",
+        "TotInvVal": 240.8
+    },
+    {
+        "Filename": "3275056398",
+        "SellerGstin": "33AABCI2732H1ZZ",
+        "BuyerGstin": "33AAJCA1167G1ZY",
+        "DocNo": "ICBC9665",
+        "DocDt": "01-JUN-2023",
+        "TotInvVal": 20496.0
+    },
+    {
+        "Filename": "Store - 8",
+        "SellerGstin": "27AADCG8831H1ZG",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "2223/SHELL/01478",
+        "DocDt": "17-Mar-23",
+        "TotInvVal": 192364.0
+    },
+    {
+        "Filename": "4811318929",
+        "SellerGstin": "19ADAPA0582E1Z3",
+        "BuyerGstin": "19AAJCA1167G1ZO",
+        "DocNo": "00078/23-24/01/B",
+        "DocDt": "17-04-2023",
+        "TotInvVal": 13334.0
+    },
+    {
+        "Filename": "DSINV2023241711",
+        "SellerGstin": "33AACV7785L1ZP",
+        "BuyerGstin": "33AAJCA1167G1ZY",
+        "DocNo": "LE/T/23-24/S0072",
+        "DocDt": "16-05-2023",
+        "TotInvVal": 2442.6
+    },
+    {
+        "Filename": "Class II - 2",
+        "SellerGstin": "27AABCL3609C1ZX",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "LISPL/22-23/0125",
+        "DocDt": "26-Aug-22",
+        "TotInvVal": 129859.0
+    },
+    {
+        "Filename": "2103025743",
+        "SellerGstin": "09AHMPG3197P1ZI",
+        "BuyerGstin": "09AAKCM0652P1ZX",
+        "DocNo": "209",
+        "DocDt": "14-Mar-2023",
+        "TotInvVal": 54752.0
+    },
+    {
+        "Filename": "Raw Material - 2",
+        "SellerGstin": "26AAACI5746C1ZT",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "DN/22-23/1019",
+        "DocDt": "27-Mar-23",
+        "TotInvVal": 2224412.1
+    },
+    {
+        "Filename": "Class I - 3",
+        "SellerGstin": "27AAACG9031C1ZZ",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "414",
+        "DocDt": "28/02/2021",
+        "TotInvVal": 101578.0
+    },
+    {
+        "Filename": "2004651",
+        "SellerGstin": "29AAACL9861H1ZZ",
+        "BuyerGstin": null,
+        "DocNo": "2004651",
+        "DocDt": "05/03/2018",
+        "TotInvVal": 343520.71
+    },
+    {
+        "Filename": "DSINV2023241746",
+        "SellerGstin": "29AADCS0406N1Z8",
+        "BuyerGstin": "29AAJCA1167G1ZN",
+        "DocNo": "F1535BIL24001910",
+        "DocDt": "14/05/23",
+        "TotInvVal": 70210.0
+    },
+    {
+        "Filename": "Class VI - 4",
+        "SellerGstin": null,
+        "BuyerGstin": null,
+        "DocNo": "yzth000011-22",
+        "DocDt": "23-May-22",
+        "TotInvVal": 2850.0
+    },
+    {
+        "Filename": "2004028",
+        "SellerGstin": "29AAACL9861H1Z2",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "2004028",
+        "DocDt": "11/02/2020",
+        "TotInvVal": 461799.0
+    },
+    {
+        "Filename": "Logistics - 6",
+        "SellerGstin": "27AAACB2985L1ZC",
+        "BuyerGstin": "24AAFCI3738M1ZB",
+        "DocNo": "BST/22/MU-M/1435",
+        "DocDt": "31/03/2023",
+        "TotInvVal": 134400.0
+    },
+    {
+        "Filename": "Class V - 2",
+        "SellerGstin": "27AAACG3425C1Z5",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "PCWIH/2122/16904",
+        "DocDt": "28-08-2021",
+        "TotInvVal": 13546.0
+    },
+    {
+        "Filename": "Class I - 1 Samples (22)",
+        "SellerGstin": null,
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "NGP-0000739",
+        "DocDt": "08/03/2021",
+        "TotInvVal": 66091.0
+    },
+    {
+        "Filename": "4811127920",
+        "SellerGstin": "29ATQPD9000J1ZG",
+        "BuyerGstin": "29AAJCA1167G1ZN",
+        "DocNo": "VD/23-24/085",
+        "DocDt": "6-May-23",
+        "TotInvVal": 68123.62
+    },
+    {
+        "Filename": "4811318931",
+        "SellerGstin": "07AAACD3254A2ZA",
+        "BuyerGstin": "07AAJCA1167G1ZT",
+        "DocNo": "ZT3421400170",
+        "DocDt": "17/04/2023",
+        "TotInvVal": 69989.59
+    },
+    {
+        "Filename": "2021481",
+        "SellerGstin": "29AAACL9861H1Z2",
+        "BuyerGstin": null,
+        "DocNo": "2021481",
+        "DocDt": "24-10-2017",
+        "TotInvVal": 13142646.58
+    },
+    {
+        "Filename": "2013402",
+        "SellerGstin": "29AAACL9861H1Z2",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "2013402",
+        "DocDt": "09/06/2022",
+        "TotInvVal": 1656366.0
+    },
+    {
+        "Filename": "2013396",
+        "SellerGstin": "29AAACL9861H1Z2",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "2013396",
+        "DocDt": "30/07/2020",
+        "TotInvVal": 1830105.67
+    },
+    {
+        "Filename": "Shipping - 5",
+        "SellerGstin": "27AABCV6455C1ZD",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "6147/FRT2223",
+        "DocDt": "3-Dec-22",
+        "TotInvVal": 32480.0
+    },
+    {
+        "Filename": "Ram Ganga Transport",
+        "SellerGstin": "19AACR7711A1ZO",
+        "BuyerGstin": "19AAFCD5214M1ZG",
+        "DocNo": "2851",
+        "DocDt": "20/03/2023",
+        "TotInvVal": 99015.0
+    },
+    {
+        "Filename": "Non PO - 5",
+        "SellerGstin": null,
+        "BuyerGstin": null,
+        "DocNo": "18",
+        "DocDt": "27-02-2023",
+        "TotInvVal": 21438.0
+    },
+    {
+        "Filename": "2013581",
+        "SellerGstin": "29AAACL9861H1Z2",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "2013581",
+        "DocDt": "03/08/2020",
+        "TotInvVal": null
+    },
+    {
+        "Filename": "5200018768",
+        "SellerGstin": "09AHMPG3197P1ZI",
+        "BuyerGstin": "09AAFCA8794B1ZG",
+        "DocNo": "188",
+        "DocDt": "25-Feb-2023",
+        "TotInvVal": 46020.0
+    },
+    {
+        "Filename": "2006589",
+        "SellerGstin": null,
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "IND 180004",
+        "DocDt": "09/03/2018",
+        "TotInvVal": 69287.0
+    },
+    {
+        "Filename": "Class I - 1 Samples (16)",
+        "SellerGstin": "06AAACI1681G3ZR",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "20210031B012336",
+        "DocDt": "27-Jan-21",
+        "TotInvVal": 1872604.0
+    },
+    {
+        "Filename": "Globe International Carriers Ltd-",
+        "SellerGstin": "08AADCG7283P1ZV",
+        "BuyerGstin": "06AAFCD5214M1ZN",
+        "DocNo": "JPR22M002279",
+        "DocDt": "22/03/2023",
+        "TotInvVal": 117072.0
+    },
+    {
+        "Filename": "2004525",
+        "SellerGstin": "29AAACL9861H1Z2",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "2004525",
+        "DocDt": "01/03/2018",
+        "TotInvVal": 14030636
+    },
+    {
+        "Filename": "Import - 9",
+        "SellerGstin": "27AADCT4957H1Z0",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "NSA2209744",
+        "DocDt": "03-09-2022",
+        "TotInvVal": 848390.0
+    },
+    {
+        "Filename": "Store - 4",
+        "SellerGstin": "27ABUPM3851C1ZG",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "5219",
+        "DocDt": "16/02/2023",
+        "TotInvVal": 50740.0
+    },
+    {
+        "Filename": "DSINV2023241729",
+        "SellerGstin": "29AATCS9490A1ZP",
+        "BuyerGstin": "29AAJCA1167G1ZN",
+        "DocNo": "KA/2023-24/1556",
+        "DocDt": "16-May-2023",
+        "TotInvVal": 61177.0
+    },
+    {
+        "Filename": "4811127923",
+        "SellerGstin": "29ATQPD9000J1ZG",
+        "BuyerGstin": "29AAJCA1167G1ZN",
+        "DocNo": "VD/23-24/088",
+        "DocDt": "6-May-23",
+        "TotInvVal": 4410.0
+    },
+    {
+        "Filename": "DSINV2023241728",
+        "SellerGstin": "29AATCS9490A1ZP",
+        "BuyerGstin": "29AAJCA1167G1ZN",
+        "DocNo": "KA/2023-24/1555",
+        "DocDt": "16-May-2023",
+        "TotInvVal": 100735.0
+    },
+    {
+        "Filename": "Class I - 5",
+        "SellerGstin": "03AIYPS0795G1ZO",
+        "BuyerGstin": "27AAAC11530L1ZQ",
+        "DocNo": "08",
+        "DocDt": "20.04.22",
+        "TotInvVal": 4796.0
+    },
+    {
+        "Filename": "Shipping - 7",
+        "SellerGstin": "27AAACH0979G1ZJ",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "MH10963871",
+        "DocDt": "JULY 27, 2022",
+        "TotInvVal": 5118.0
+    },
+    {
+        "Filename": "DSINV2023241727",
+        "SellerGstin": "29AATCS9490A1ZP",
+        "BuyerGstin": "29AAJCA1167G1ZN",
+        "DocNo": "KA/2023-24/1552",
+        "DocDt": "12-May-2023",
+        "TotInvVal": 462167.0
+    },
+    {
+        "Filename": "5788040277",
+        "SellerGstin": "29AAFCD6369P2ZQ",
+        "BuyerGstin": "37AAJCA1167G1ZQ",
+        "DocNo": "DIN/22-23/SER012",
+        "DocDt": "03.February.2023",
+        "TotInvVal": 671420.0
+    },
+    {
+        "Filename": "2005965",
+        "SellerGstin": "29AAACL9861H1Z2",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "3098358911",
+        "DocDt": "23/02/2018",
+        "TotInvVal": 4958222.28
+    },
+    {
+        "Filename": "Zinka Logistics Solutions",
+        "SellerGstin": "29AAACZ8319C1Z7",
+        "BuyerGstin": "19AAFCD5214M1ZG",
+        "DocNo": "Z202220012722",
+        "DocDt": "22 Mar 2023",
+        "TotInvVal": 266616.0
+    },
+    {
+        "Filename": "2021637",
+        "SellerGstin": null,
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "3097699766",
+        "DocDt": "19/10/2017",
+        "TotInvVal": 230743.0
+    },
+    {
+        "Filename": "Class I - 1 Samples (14)",
+        "SellerGstin": "24AAACB4026C1ZH",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "SI2421000298",
+        "DocDt": "19.04.2021",
+        "TotInvVal": 28320.0
+    },
+    {
+        "Filename": "4811318935",
+        "SellerGstin": "19DQBPS1537L1ZE",
+        "BuyerGstin": "19AAJCA1167G1ZO",
+        "DocNo": "ATIL/08/2023-24",
+        "DocDt": "30-APR-2023",
+        "TotInvVal": 29500.0
+    },
+    {
+        "Filename": "3275056416",
+        "SellerGstin": "33AGAPB9665J1ZD",
+        "BuyerGstin": "33AAJCA1167G1ZY",
+        "DocNo": "ABC/0370/23 - 24",
+        "DocDt": "22-Jun-23",
+        "TotInvVal": 23789.0
+    },
+    {
+        "Filename": "Truckeze Logistics Solutions",
+        "SellerGstin": "06AAFCT7180C1ZF",
+        "BuyerGstin": null,
+        "DocNo": "8583",
+        "DocDt": "18-Mar-23",
+        "TotInvVal": 45684.0
+    },
+    {
+        "Filename": "DSINV2023241754",
+        "SellerGstin": "29AABCS0858G1Z9",
+        "BuyerGstin": "23AAJCA1167G1ZZ",
+        "DocNo": "KA/2024/S-000170",
+        "DocDt": "17-05-2023",
+        "TotInvVal": 41300.0
+    },
+    {
+        "Filename": "2006109",
+        "SellerGstin": "29AAACL9861H1Z2",
+        "BuyerGstin": null,
+        "DocNo": "2006109",
+        "DocDt": "21/03/2018",
+        "TotInvVal": 25158.21
+    },
+    {
+        "Filename": "5200018764",
+        "SellerGstin": "09AHMPG3197P1ZI",
+        "BuyerGstin": "09AAFCA8794B1ZG",
+        "DocNo": "8",
+        "DocDt": "17-Apr-2023",
+        "TotInvVal": 106200.0
+    },
+    {
+        "Filename": "GW01210600688",
+        "SellerGstin": "24AABCP7549K1Z3",
+        "BuyerGstin": "24AAACL6442L1ZG",
+        "DocNo": "21220320",
+        "DocDt": "1-Jun-21",
+        "TotInvVal": 77170.0
+    },
+    {
+        "Filename": "Beauty of Nature",
+        "SellerGstin": "19AIPPD9835R1Z5",
+        "BuyerGstin": "19AAFCD5214M1ZG",
+        "DocNo": "005/23-24",
+        "DocDt": "10-04-2023",
+        "TotInvVal": 37128.0
+    },
+    {
+        "Filename": "Class III - 2",
+        "SellerGstin": "27AABFO8697A1Z2",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "8853",
+        "DocDt": "24-Nov-22",
+        "TotInvVal": 67.75
+    },
+    {
+        "Filename": "DSINV2023241724",
+        "SellerGstin": "19AAECD2713N1ZH",
+        "BuyerGstin": "19AAJCA1167G1ZO",
+        "DocNo": "6888493791",
+        "DocDt": "15-05-2023",
+        "TotInvVal": 6918.0
+    },
+    {
+        "Filename": "DSINV2023241721",
+        "SellerGstin": "07AAFFL7691H2ZW",
+        "BuyerGstin": "10AAKCM0652P1ZE",
+        "DocNo": "780",
+        "DocDt": "18/03/2023",
+        "TotInvVal": 99533.0
+    },
+    {
+        "Filename": "Raw Material - 10",
+        "SellerGstin": "27AABCV4673J1ZY",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "MS/860/22-23",
+        "DocDt": "15-Jan-23",
+        "TotInvVal": 232419.0
+    },
+    {
+        "Filename": "Tulsi Dass _ Co",
+        "SellerGstin": "06AAKFT6130G1Z8",
+        "BuyerGstin": null,
+        "DocNo": "11136",
+        "DocDt": "22-03-2023",
+        "TotInvVal": 1072080.0
+    },
+    {
+        "Filename": "4811127922",
+        "SellerGstin": "29ATQPD9000J1ZG",
+        "BuyerGstin": "29AAJCA1167G1ZN",
+        "DocNo": "VD/23-24/08735",
+        "DocDt": "6-May-23",
+        "TotInvVal": 96936.0
+    },
+    {
+        "Filename": "Shipping - 2",
+        "SellerGstin": "27AACCO6217A1ZV",
+        "BuyerGstin": "06AAACI1530L3ZS",
+        "DocNo": "IN27220163653",
+        "DocDt": "28Mar2023",
+        "TotInvVal": 365.4
+    },
+    {
+        "Filename": "5788040285",
+        "SellerGstin": "23AAGFG3565L1Z9",
+        "BuyerGstin": "23AAJCA1167G1ZZ",
+        "DocNo": "GP/23-24/21-RENT",
+        "DocDt": "01-05-2023",
+        "TotInvVal": 263321.0
+    },
+    {
+        "Filename": "Orion Industries",
+        "SellerGstin": "06AKOPS1950K1ZO",
+        "BuyerGstin": "06AAFCD3214M1ZN",
+        "DocNo": "391",
+        "DocDt": "15/3/2023",
+        "TotInvVal": 40378.0
+    },
+    {
+        "Filename": "KYC Cargo Services Pvt- Ltd-",
+        "SellerGstin": "19AABCK3240Q1Z7",
+        "BuyerGstin": "19AAFCD5214M1ZG",
+        "DocNo": "TS/23-24/ 031",
+        "DocDt": "13.04.2023",
+        "TotInvVal": 3540.0
+    },
+    {
+        "Filename": "Raw Material - 1",
+        "SellerGstin": "19AAACM9169K1ZU",
+        "BuyerGstin": "19AAFCD5214M1ZG",
+        "DocNo": "23WBD340002115",
+        "DocDt": "16.04.2023",
+        "TotInvVal": 2017813.02
+    },
+    {
+        "Filename": "DSINV2023241732",
+        "SellerGstin": "29AANCA6532F1Z1",
+        "BuyerGstin": "29AAJCA1167G1ZN",
+        "DocNo": "IND2022067BMRCL",
+        "DocDt": "04/05/2023",
+        "TotInvVal": 1325722.12
+    },
+    {
+        "Filename": "DSINV2023241714",
+        "SellerGstin": "33AAECV0280C1ZU",
+        "BuyerGstin": "33AAJCA1167G1ZY",
+        "DocNo": "109/2023-24",
+        "DocDt": "16-May-23",
+        "TotInvVal": 1564241.0
+    },
+    {
+        "Filename": "Class I - 1 Samples (6)",
+        "SellerGstin": "27DNRPS3322E1ZR",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "6682",
+        "DocDt": "25.03.2021",
+        "TotInvVal": 649.0
+    },
+    {
+        "Filename": "Calcutta Express Roadlines Pvt- Ltd-",
+        "SellerGstin": "09AAACC2426R1ZD",
+        "BuyerGstin": "19AACFD5214M1ZG",
+        "DocNo": "CERPL/0144",
+        "DocDt": "21/03/2023",
+        "TotInvVal": 91793.0
+    },
+    {
+        "Filename": "I Zone Computers",
+        "SellerGstin": "06AELPJ1995C1ZH",
+        "BuyerGstin": "06AAFCD5214M1ZN",
+        "DocNo": "629",
+        "DocDt": "25-03-2023",
+        "TotInvVal": 2714.0
+    },
+    {
+        "Filename": "2004560",
+        "SellerGstin": "29AAACL9861H1Z2",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "2004560",
+        "DocDt": "02/03/2018",
+        "TotInvVal": 5686.09
+    },
+    {
+        "Filename": "Namaste Yatri",
+        "SellerGstin": "07AAQPE5633F1ZQ",
+        "BuyerGstin": "07AAFCD5214M1ZL",
+        "DocNo": "D2200092",
+        "DocDt": "02/03/2023",
+        "TotInvVal": 7063.0
+    },
+    {
+        "Filename": "2005353",
+        "SellerGstin": "29AAACL9861H1Z2",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "10028",
+        "DocDt": "16-03-2018",
+        "TotInvVal": 111028.89
+    },
+    {
+        "Filename": "Store - 1",
+        "SellerGstin": "27AAACI1530L1ZQ",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "CV-375",
+        "DocDt": "25/03/2023",
+        "TotInvVal": 1433.0
+    },
+    {
+        "Filename": "5200018763",
+        "SellerGstin": "09AHMPG3197P1ZI",
+        "BuyerGstin": "09AAFCA8794B1ZG",
+        "DocNo": "9",
+        "DocDt": "17-Apr-2023",
+        "TotInvVal": 5629.0
+    },
+    {
+        "Filename": "Non PO - 2",
+        "SellerGstin": "27BNXPS3015C1ZT",
+        "BuyerGstin": "27AAACI1530LIZQ",
+        "DocNo": "RT/GST/787",
+        "DocDt": "27-03-2023",
+        "TotInvVal": 9505.0
+    },
+    {
+        "Filename": "Haryana Sanitary Store",
+        "SellerGstin": "06AAUPG0173E1ZV",
+        "BuyerGstin": "06AAFCD5214M1ZN",
+        "DocNo": "22-23/07636",
+        "DocDt": "28-03-2023",
+        "TotInvVal": 2567.0
+    },
+    {
+        "Filename": "GW01210600825",
+        "SellerGstin": "24ABXPC0802G1Z0",
+        "BuyerGstin": "24AAACL6442L1ZG",
+        "DocNo": "199",
+        "DocDt": "27-May-2021",
+        "TotInvVal": 76700.0
+    },
+    {
+        "Filename": "Shipping - 4",
+        "SellerGstin": "27AABCT9850B1ZC",
+        "BuyerGstin": "27AACI1530L1ZQ",
+        "DocNo": "100/007635/22-23",
+        "DocDt": "23-Mar-2023",
+        "TotInvVal": 85765.0
+    },
+    {
+        "Filename": "3275056401",
+        "SellerGstin": "24AAACZ2958F1ZA",
+        "BuyerGstin": "33AAJCA1167G1ZY",
+        "DocNo": "00164",
+        "DocDt": "09.06.2023",
+        "TotInvVal": 276884.64
+    },
+    {
+        "Filename": "IOCL - Credit Note",
+        "SellerGstin": "19AAACI1681G1ZM",
+        "BuyerGstin": "19AAFCD5214M1ZG",
+        "DocNo": "764379983",
+        "DocDt": "06-03-2023",
+        "TotInvVal": 243000.0
+    },
+    {
+        "Filename": "Khaitan _ Co",
+        "SellerGstin": "19AAGFK5459H1ZY",
+        "BuyerGstin": "19AAFCD5214M1ZG",
+        "DocNo": "KLP2223B02840",
+        "DocDt": "27-Mar-2023",
+        "TotInvVal": 152500.0
+    },
+    {
+        "Filename": "DSINV2023241723",
+        "SellerGstin": "07AAFFL7691H2ZW",
+        "BuyerGstin": "10AAKCM0652P1ZE",
+        "DocNo": "800",
+        "DocDt": "01/05/2023",
+        "TotInvVal": 99533.0
+    },
+    {
+        "Filename": "Class I - 1 Samples (23)",
+        "SellerGstin": null,
+        "BuyerGstin": "27AABCV7123P1ZV",
+        "DocNo": "MH/2021/CN/03046",
+        "DocDt": "21-Mar-2021",
+        "TotInvVal": 240.8
+    },
+    {
+        "Filename": "JF01220900796",
+        "SellerGstin": "24AADCP1453C1ZZ",
+        "BuyerGstin": null,
+        "DocNo": null,
+        "DocDt": "17/09",
+        "TotInvVal": 13544.79
+    },
+    {
+        "Filename": "S K Mookherjee",
+        "SellerGstin": "19AFAPM6694P1ZL",
+        "BuyerGstin": "19AAFCD5214M1ZG",
+        "DocNo": "SKM/22-23/1453",
+        "DocDt": "20-Mar-2023",
+        "TotInvVal": 84493.0
+    },
+    {
+        "Filename": "Class I - 1 Samples (12)",
+        "SellerGstin": "09AANCA3776B1ZK",
+        "BuyerGstin": "27AAACI1530L1ZQ",
+        "DocNo": "AGC/22-23/00287",
+        "DocDt": "17/11/2022",
+        "TotInvVal": 722750.0
+    },
+    {
+        "Filename": "4518978189_69DMO221477_jpg.rf.PnY05fXZovhQKtmxTHBw.jpg",
+        "SellerGstin": "33AACCK8333P1Z6",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "69/DMO/22/1477",
+        "DocDt": "28 Feb 23",
+        "TotInvVal": 1002204.0
+    },
+    {
+        "Filename": "4519052428_22ING4159_jpg.rf.DKV4JdpE9xptcFM3NTcS.jpg",
+        "SellerGstin": "33AAJCS7850A1ZI",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "22ING4159",
+        "DocDt": "23/03/2023",
+        "TotInvVal": 678014.0
+    },
+    {
+        "Filename": "4519053059_2222600895_jpg.rf.43moMev78j92XNdQc3Dg.jpg",
+        "SellerGstin": "27AADCS2490L1Z0",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "2222600895",
+        "DocDt": "22.03.2023",
+        "TotInvVal": 574964.86
+    },
+    {
+        "Filename": "4518899230_22ING4025_jpg.rf.yOdwsqCBACPTln1gdCxm.jpg",
+        "SellerGstin": "33AAJCS7850A1ZI",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "22ING4025",
+        "DocDt": "07/03/2023",
+        "TotInvVal": 211678.0
+    },
+    {
+        "Filename": "4519011673_CGDL052292223_jpg.rf.oP98Z8iQPXIMFI3n2bu8.jpg",
+        "SellerGstin": "26AAACC0431C2ZI",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "CGD/L/05229/2223",
+        "DocDt": "26/03/2023",
+        "TotInvVal": 38892.8
+    },
+    {
+        "Filename": "4519026520_22017672_jpg.rf.Vpk7oTpd9AwEajTWUvSi.jpg",
+        "SellerGstin": "03AACCH1308R1ZN",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "22017672",
+        "DocDt": "15.03.2023",
+        "TotInvVal": 3279659.0
+    },
+    {
+        "Filename": "4518989709_IF1D384422-23_jpg.rf.YUZxhUaqnvJ3mvMTzvRT.jpg",
+        "SellerGstin": "33AAACI2706C1ZC",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "IF1/D3844/22-23",
+        "DocDt": "06/03/2023",
+        "TotInvVal": 265776.0
+    },
+    {
+        "Filename": "4518997216_IF1D400722-23_jpg.rf.6zwKrPK8V3wuZgrUKrho.jpg",
+        "SellerGstin": "33AAACI2706C1ZC",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "IF1/D4007/22-23",
+        "DocDt": "16/03/2023",
+        "TotInvVal": 362250.0
+    },
+    {
+        "Filename": "4519006887_IF1D401522-23_jpg.rf.JExGCgbKj4VkjCJHVJYs.jpg",
+        "SellerGstin": "33AAACI2706C1ZC",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "IF1/D4015/22-23",
+        "DocDt": "16/03/2023",
+        "TotInvVal": 187110.0
+    },
+    {
+        "Filename": "4519033657_22ING4097_jpg.rf.80Qu3DEZaxV0yn7HrUgv.jpg",
+        "SellerGstin": "33AAJCS7850A1ZI",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "22ING4097",
+        "DocDt": "14/03/2023",
+        "TotInvVal": 117466.0
+    },
+    {
+        "Filename": "4518904586_69DMO221527_jpg.rf.b5cDHujLaw6QqUZBtQH3.jpg",
+        "SellerGstin": "33AACCK8333P1Z6",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "69/DMO/22/1527",
+        "DocDt": "7 Mar 23",
+        "TotInvVal": 670891.0
+    },
+    {
+        "Filename": "4518967862_HPPL22-23601_jpg.rf.MfzwZAEGrnNFkOuqhXJS.jpg",
+        "SellerGstin": "23AAFCM6959G1Z9",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "HPPL/22-23/601",
+        "DocDt": "28-Mar-23",
+        "TotInvVal": 1640851.95
+    },
+    {
+        "Filename": "4518979843_CGDL049542223_jpg.rf.M4RfD2rR4vTyn2SXlNzA.jpg",
+        "SellerGstin": "26AAACC0431C2ZI",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "CGD/L/04954/2223",
+        "DocDt": "18/03/2023",
+        "TotInvVal": 58339.2
+    },
+    {
+        "Filename": "4518988200_IF1D385322-23_jpg.rf.P6DZRS7hJgzl3bq5UQfZ.jpg",
+        "SellerGstin": "33AAACI2706C1ZC",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "IF1/D3853/22-23",
+        "DocDt": "06/03/2023",
+        "TotInvVal": 120393.0
+    },
+    {
+        "Filename": "4518939547_69DMO221488_jpg.rf.zyBt2ExFX6p4h3lGDCHu.jpg",
+        "SellerGstin": "33AACCK8333P1Z6",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "69/DMO/22/1488",
+        "DocDt": "28 Feb 23",
+        "TotInvVal": 181843.2
+    },
+    {
+        "Filename": "4518956468_22ING4285_jpg.rf.Sfa18Fis8QyNcShfjOh9.jpg",
+        "SellerGstin": "33AAJCS7850A1ZI",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "22ING4285",
+        "DocDt": "28/03/2023",
+        "TotInvVal": 52814.0
+    },
+    {
+        "Filename": "4519053150_22ING4073_jpg.rf.Stz1pcWUcSUSXVCgjBJH.jpg",
+        "SellerGstin": "33AAJCS7850A1ZI",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "22ING4073",
+        "DocDt": "11/03/2023",
+        "TotInvVal": 526495.0
+    },
+    {
+        "Filename": "4519017563_69DMO221528_jpg.rf.K5JTtcK3uQWYYAKK8a7O.jpg",
+        "SellerGstin": "33AACCK8333P1Z6",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "69/DMO/22/1528",
+        "DocDt": "7 Mar 23",
+        "TotInvVal": 196308.0
+    }
+]
