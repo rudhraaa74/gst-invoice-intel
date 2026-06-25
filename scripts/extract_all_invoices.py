@@ -7,7 +7,7 @@ import time
 API_KEY = "YOUR_API_KEY_HERE"
 URL = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent?key={API_KEY}"
 RAW_DIR = "data/raw"
-OUTPUT_FILE = "data/raw/extraction_outputs.json"
+OUTPUT_FILE = "data/outputs/extraction_outputs.json"
 
 def encode_image(image_path):
     with open(image_path, "rb") as image_file:

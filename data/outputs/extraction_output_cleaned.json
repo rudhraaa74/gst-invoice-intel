@@ -2478,5 +2478,405 @@
         "DocNo": "69/DMO/22/1528",
         "DocDt": "07-03-2023",
         "TotInvVal": 196308
+    },
+    {
+        "Filename": "4518954903_S674722-23_jpg.rf.TVyS6Eq2A4aiDsKGVdc6.jpg",
+        "SellerGstin": "invalid_format",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "S6747/22-23",
+        "DocDt": "23-03-2023",
+        "TotInvVal": 75077
+    },
+    {
+        "Filename": "4519021931_22017746_jpg.rf.7skDxVh5L4Bz2t83GDGs.jpg",
+        "SellerGstin": "03AACCH1308R1ZN",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "22017746",
+        "DocDt": "18-03-2023",
+        "TotInvVal": 1934904
+    },
+    {
+        "Filename": "4518980506_69DMO221476_jpg.rf.wjoIKUKI3fXHLr9vGwLR.jpg",
+        "SellerGstin": "33AACCK8333P1Z6",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "69/DMO/22/1476",
+        "DocDt": "28-02-2023",
+        "TotInvVal": 359554
+    },
+    {
+        "Filename": "4519066229_CGDL049372223_jpg.rf.Iz83AEym1fxLsQlwwMVc.jpg",
+        "SellerGstin": "26AAACC0431C2ZI",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "CGD/L/04937/2223",
+        "DocDt": "18-03-2023",
+        "TotInvVal": 30183
+    },
+    {
+        "Filename": "4518873080_22ING4197_jpg.rf.wo6cmg4R9ZfBRyRYMvsC.jpg",
+        "SellerGstin": "33AAJCS7850A1ZI",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "22ING4197",
+        "DocDt": "25-03-2023",
+        "TotInvVal": 163335
+    },
+    {
+        "Filename": "4518978893_69DMO221489_jpg.rf.OdYBPyD3hgOkmnQg5DuN.jpg",
+        "SellerGstin": "33AACCK8333P1Z6",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "69/DMO/22/1489",
+        "DocDt": "28-02-2023",
+        "TotInvVal": 374018
+    },
+    {
+        "Filename": "4518994058_22ING4121_jpg.rf.S4Z4F1K11UvcJe2yu3KW.jpg",
+        "SellerGstin": "33AAJCS7850A1ZI",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "22ING4121",
+        "DocDt": "21-03-2023",
+        "TotInvVal": 179626
+    },
+    {
+        "Filename": "4519053144_22ING4015_jpg.rf.MfjiedsYhoSPsBT5unUe.jpg",
+        "SellerGstin": "33AAJCS7850A1ZI",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "22ING4015",
+        "DocDt": "07-03-2023",
+        "TotInvVal": 465744
+    },
+    {
+        "Filename": "4519029070_202223MLKA0281_jpg.rf.40zE6AbnkLLMwR6eCuKi.jpg",
+        "SellerGstin": "29AAFCK8597G1ZT",
+        "BuyerGstin": "invalid_format",
+        "DocNo": "202223MLKA0281",
+        "DocDt": "21-03-2023",
+        "TotInvVal": 1874303
+    },
+    {
+        "Filename": "4519023657_69DMO221529_jpg.rf.NwPckZ8E7FGTDu0Ia1iP.jpg",
+        "SellerGstin": "33AACCK8333P1Z6",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "69/DMO/22/1529",
+        "DocDt": "07-03-2023",
+        "TotInvVal": 187354
+    },
+    {
+        "Filename": "4519057005_IF1D417222-23_jpg.rf.jEoO0TTWlTnX7trcByUZ.jpg",
+        "SellerGstin": "33AAACI2706C1ZC",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "IF1/D4172/22-23",
+        "DocDt": "27-03-2023",
+        "TotInvVal": 170100
+    },
+    {
+        "Filename": "4519053861_2222600890_jpg.rf.m3U8xVE2iytN92ScHLZe.jpg",
+        "SellerGstin": "27AADCS2490L1Z0",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "2222600890",
+        "DocDt": "21-03-2023",
+        "TotInvVal": 983038
+    },
+    {
+        "Filename": "4519056323_1187_jpg.rf.aOnInTWxGqDYNm1ILmyP.jpg",
+        "SellerGstin": "27ADIFS7062H1ZQ",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "1,187",
+        "DocDt": "22-03-2023",
+        "TotInvVal": 1402925
+    },
+    {
+        "Filename": "4518987412_69DMO221483_jpg.rf.akZKDom0UQJZXQmKMQWk.jpg",
+        "SellerGstin": "33AACCK8333P1Z6",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "69/DMO/22/1483",
+        "DocDt": "28-02-2023",
+        "TotInvVal": 143640
+    },
+    {
+        "Filename": "4518969499_22ING4182_jpg.rf.D0kEZFlyT3ycO4mLlQVH.jpg",
+        "SellerGstin": "33AAJCS7850A1Z1",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "22ING4182",
+        "DocDt": "21-03-2023",
+        "TotInvVal": 249053
+    },
+    {
+        "Filename": "4518981287_IF1D383622-23_jpg.rf.KyhyOXQlRLh6wdorx6Xs.jpg",
+        "SellerGstin": "33AAACI2706C1ZC",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "IF1/D3836/22-23",
+        "DocDt": "06-03-2023",
+        "TotInvVal": 166530
+    },
+    {
+        "Filename": "4519055736_2222600896_jpg.rf.1Wmej3C3UmaDKYPFecG1.jpg",
+        "SellerGstin": "27AADCS2490L1Z0",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "2222600896",
+        "DocDt": "22-03-2023",
+        "TotInvVal": 145677
+    },
+    {
+        "Filename": "4519064069_22ING4165_jpg.rf.gtWJs0S7P08z627kw6a2.jpg",
+        "SellerGstin": "33AAJCS7850A1ZI",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "22ING4165",
+        "DocDt": "18-03-2023",
+        "TotInvVal": 375921
+    },
+    {
+        "Filename": "4519033344_22ING4082_jpg.rf.bzvTKYNgoawJWaNNnPR8.jpg",
+        "SellerGstin": "33AAJCS7850A1ZI",
+        "BuyerGstin": "invalid_format",
+        "DocNo": "22ING4082",
+        "DocDt": "11-03-2023",
+        "TotInvVal": 274665
+    },
+    {
+        "Filename": "4518977608_69DMO221479_jpg.rf.xVHdIWdyVWSpKVn1ErCY.jpg",
+        "SellerGstin": "33AACCK8333P1Z6",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "69/DMO/22/1479",
+        "DocDt": "28-02-2023",
+        "TotInvVal": 211076
+    },
+    {
+        "Filename": "4519066121_22ING4232_jpg.rf.rlHUQZIzknZzAm4wCZYy.jpg",
+        "SellerGstin": "33AAJCS7850A1ZI",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "22ING4232",
+        "DocDt": "23-03-2023",
+        "TotInvVal": 212335
+    },
+    {
+        "Filename": "4519030538_22ING4022_jpg.rf.KfO9dPaV7srMIhMuZWLE.jpg",
+        "SellerGstin": "33AAJCS7850A1ZI",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "22ING4022",
+        "DocDt": "07-03-2023",
+        "TotInvVal": 575854
+    },
+    {
+        "Filename": "4519067621_22ING4080_jpg.rf.XwM7OZ7vZD5APxb1twhZ.jpg",
+        "SellerGstin": "33AAJCS7850A1ZI",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "22ING4080",
+        "DocDt": "11-03-2023",
+        "TotInvVal": 231903
+    },
+    {
+        "Filename": "4519074539_22ING4275_jpg.rf.2vgKOyDFkuaWj30HGx9c.jpg",
+        "SellerGstin": "33AAJCS7850A1ZI",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "22ING4275",
+        "DocDt": "28-03-2023",
+        "TotInvVal": 211678
+    },
+    {
+        "Filename": "4519011051_IF1D402322-23_jpg.rf.aGzuPMAGKw5E9hLwyaF7.jpg",
+        "SellerGstin": "33AAACI2706C1ZC",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "IF1/D4023/22-23",
+        "DocDt": "16-03-2023",
+        "TotInvVal": 81480
+    },
+    {
+        "Filename": "4518968235_CGDL049532223_jpg.rf.ux3Z4ygtoQUOxto4gnRl.jpg",
+        "SellerGstin": "26AAACC0431C2ZI",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "CGD/L/04953/2223",
+        "DocDt": "18-03-2023",
+        "TotInvVal": 19446
+    },
+    {
+        "Filename": "4518995122_IF1D401422-23_jpg.rf.wMLYtNXQPvkcXkjgyJ4P.jpg",
+        "SellerGstin": "33AAACI2706C1ZC",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "IF1/D4014/22-23",
+        "DocDt": "16-03-2023",
+        "TotInvVal": 171240
+    },
+    {
+        "Filename": "4518993364_IF1D400422-23_jpg.rf.RZ4S2FExSRLvGV81CKzA.jpg",
+        "SellerGstin": "33AAACI2706C1ZC",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "IF1/D4004/22-23",
+        "DocDt": "16-03-2023",
+        "TotInvVal": 115248
+    },
+    {
+        "Filename": "4519001022_S682622-23_jpg.rf.m8mN9FuiVYcAb6OdG6RV.jpg",
+        "SellerGstin": "33AACCG8906G1ZQ",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "S6826/22-23",
+        "DocDt": "24-03-2023",
+        "TotInvVal": 27654
+    },
+    {
+        "Filename": "4518944231_22ING4158_jpg.rf.Q6aPC7Pwc7MONluFMIrR.jpg",
+        "SellerGstin": "33AAJCS7850A1ZI",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "22ING4158",
+        "DocDt": "18-03-2023",
+        "TotInvVal": 159985
+    },
+    {
+        "Filename": "4519044542_2222600889_jpg.rf.GxUHXmuplZZdGG9ezGUw.jpg",
+        "SellerGstin": "27AADCS2490L1Z0",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "2222600889",
+        "DocDt": "21-03-2023",
+        "TotInvVal": 684660
+    },
+    {
+        "Filename": "4518889324_22ING4046_jpg.rf.UjsfkdKbTTOmj4CZcQkK.jpg",
+        "SellerGstin": "33AAJCS7850A1ZI",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "22ING4046",
+        "DocDt": "11-03-2023",
+        "TotInvVal": 492117
+    },
+    {
+        "Filename": "4519032328_69DMO221501_jpg.rf.NH08FHisOqPgmlswCh4I.jpg",
+        "SellerGstin": "33AACCK8333P1Z6",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "69/DMO/22/1501",
+        "DocDt": "28-02-2023",
+        "TotInvVal": 90116
+    },
+    {
+        "Filename": "4518942063_69DMO221562_jpg.rf.ZTiONUfEGSoSdfFymywu.jpg",
+        "SellerGstin": "33AACCK8333P1Z6",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "69/DMO/22/1562",
+        "DocDt": "14-03-2023",
+        "TotInvVal": 372393
+    },
+    {
+        "Filename": "4519006265_S669222-23 (2)_jpg.rf.tVoK9yJeKo2EbySPgop1.jpg",
+        "SellerGstin": "33AACCG8906G1ZQ",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "S6692/22-23",
+        "DocDt": "21-03-2023",
+        "TotInvVal": 25112
+    },
+    {
+        "Filename": "4519009916_22ING4184_jpg.rf.JXSLILB5Lf6rs4STPCpk.jpg",
+        "SellerGstin": "33AAJCS7850A1ZI",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "22ING4184",
+        "DocDt": "21-03-2023",
+        "TotInvVal": 1041075
+    },
+    {
+        "Filename": "4519012937_IF1D416422-23_jpg.rf.IeEhnLPIHaSWTHLVLHkW.jpg",
+        "SellerGstin": "33AAACI2706C1ZC",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "IF1/D4164/22-23",
+        "DocDt": "27-03-2023",
+        "TotInvVal": 205538
+    },
+    {
+        "Filename": "4519035591_69DMO221567_jpg.rf.be3ujRFznUCia23CFbYq.jpg",
+        "SellerGstin": "33AACCK8333P1Z6",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "69/DMO/22/1567",
+        "DocDt": "14-03-2023",
+        "TotInvVal": 232126
+    },
+    {
+        "Filename": "4518963977_TCI22-23D-540_jpg.rf.4cxHZbCwMYucq1770d5L.jpg",
+        "SellerGstin": "27AAFCT8355B1ZA",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "TCI/22-23/D-540",
+        "DocDt": "28-03-2023",
+        "TotInvVal": 1503387
+    },
+    {
+        "Filename": "4518993961_IF1D385522-23_jpg.rf.ApY77A34wbVuW9d42Lgg.jpg",
+        "SellerGstin": "33AAACI2706C1ZC",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "IF1/D3855/22-23",
+        "DocDt": "06-03-2023",
+        "TotInvVal": 155610
+    },
+    {
+        "Filename": "4518874363_22ING4196_jpg.rf.wZAvfGtRZVEFY4jeofup.jpg",
+        "SellerGstin": "33AAJCS7850A1ZI",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "22ING4196",
+        "DocDt": "25-03-2023",
+        "TotInvVal": 295896
+    },
+    {
+        "Filename": "4518993117_IF1D385422-23_jpg.rf.OzMaTt5NNOehhbdXqLzt.jpg",
+        "SellerGstin": "33AAACI2706C1ZC",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "IF1/D3854/22-23",
+        "DocDt": "06-03-2023",
+        "TotInvVal": 637403
+    },
+    {
+        "Filename": "4518992077_IF1D385122-23_jpg.rf.9zJVvA8uMQOLrh2pdeRB.jpg",
+        "SellerGstin": "33AAACI2706C1ZC",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "IF1/D3851/22-23",
+        "DocDt": "06-03-2023",
+        "TotInvVal": 96096
+    },
+    {
+        "Filename": "4518926463_69DMO221522_jpg.rf.Ao4SlbZX8GvPieATDToy.jpg",
+        "SellerGstin": "33AACCK8333P1Z6",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "69/DMO/22/1522",
+        "DocDt": "04-03-2023",
+        "TotInvVal": 234549
+    },
+    {
+        "Filename": "4519036393_22ING4088_jpg.rf.Ui3CBdnRrASgaSwJgDvi.jpg",
+        "SellerGstin": "33AAJCS7850A1ZI",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "22ING4088",
+        "DocDt": "14-03-2023",
+        "TotInvVal": 1004850
+    },
+    {
+        "Filename": "4518986705_IF1D402222-23_jpg.rf.R6YJDuB5e7grjehYR5e9.jpg",
+        "SellerGstin": "33AAACI2706C1ZC",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "IF1/D4022/22-23",
+        "DocDt": "16-03-2023",
+        "TotInvVal": 116550
+    },
+    {
+        "Filename": "4518974439_69DMO221568_jpg.rf.KYS6mlZqGtC2oxbasKmb.jpg",
+        "SellerGstin": "33AACCK8333P1Z6",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "69/DMO/22/1568",
+        "DocDt": "14-03-2023",
+        "TotInvVal": 165312
+    },
+    {
+        "Filename": "4518970962_69DMO221475_jpg.rf.ThTENGcom757qniM7z6S.jpg",
+        "SellerGstin": "33AACCK8333P1Z6",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "69/DMO/22/1475",
+        "DocDt": "28-02-2023",
+        "TotInvVal": 529687
+    },
+    {
+        "Filename": "4518967068_CGDL049552223_jpg.rf.1ktUYw1ylHCceokgLPm9.jpg",
+        "SellerGstin": "26AAACC0431C2ZI",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "CGD/L/04955/2223",
+        "DocDt": "18-03-2023",
+        "TotInvVal": 77786
+    },
+    {
+        "Filename": "4519005131_S674822-23_jpg.rf.A2g5aINLeM6ymFQ1TuZO.jpg",
+        "SellerGstin": "33AACCG8906G1ZQ",
+        "BuyerGstin": "29AAACL9861H1Z2",
+        "DocNo": "S6748/22-23",
+        "DocDt": "23-03-2023",
+        "TotInvVal": 27493
     }
 ]
