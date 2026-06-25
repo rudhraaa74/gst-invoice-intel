@@ -3,8 +3,13 @@ import json
 import base64
 import requests
 import time
+from dotenv import load_dotenv
 
-API_KEY = "YOUR_API_KEY_HERE"
+load_dotenv()
+
+API_KEY = os.getenv("GEMINI_API_KEY")
+if not API_KEY:
+    raise ValueError("GEMINI_API_KEY not found in environment variables. Please check your .env file.")
 URL = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent?key={API_KEY}"
 RAW_DIR = "data/raw"
 OUTPUT_FILE = "data/outputs/extraction_outputs.json"

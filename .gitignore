@@ -1,3 +1,5 @@
 # Ignore data files
 data/raw/
 data/clean/
+# Ignore environment variables
+.env
